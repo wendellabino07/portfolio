@@ -1,0 +1,1641 @@
+company,location,salary estimate,hourly,rating,python_yn,spark_yn,azure_yn,aws_yn,excel_yn,machine_learning_yn,job_simpl,seniority,City,Latitude,Longitude
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Atlassian,"Mountain View, CA",119046,0,4.7,0,0,0,0,0,1,data scientist,junior,Mountain View,37.3893889,-122.0832101
+Augray,"Brookfield, WI",57500,0,4.1,1,0,0,0,0,1,data scientist,junior,Brookfield,43.0578479,-88.1261984
+Tetra Tech,"Kingston, RI",95000,0,3.8,1,1,0,0,1,1,data scientist,Senior,Kingston,17.9712148,-76.7928128
+Lightcast,"Boston, MA",99067,0,4.4,1,0,0,0,0,1,data scientist,Senior,Boston,42.3554334,-71.060511
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+"WhirlWind Technologies, LLC",Remote,98000,0,4.8,1,1,0,0,1,1,data scientist,junior,Remote,,
+Amgen,"Thousand Oaks, CA",105700,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Federal Reserve Bank of New York,"New York, NY",119109,0,4.5,0,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Kellogg Company,"Battle Creek, MI",117938,0,3.8,1,0,0,1,0,0,data scientist,Senior,Battle Creek,42.3192548,-85.1824269
+Talent Group,Remote,80700,1,1.0,1,1,0,0,0,1,data scientist,mid,Remote,,
+AT&T,"Bothell, WA",144000,0,3.7,1,1,0,0,0,1,data scientist,Senior,Bothell,47.7623204,-122.2054035
+Anheuser-Busch,"New York, NY",137618,0,3.8,0,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+"US News & World Report ,L.P.","Washington, DC",88385,0,3.8,0,0,0,0,0,0,data scientist,Senior,Washington,38.8950368,-77.0365427
+T-Mobile,"Bellevue, WA",98337,0,3.8,0,0,0,0,1,0,data scientist,junior,Bellevue,47.6144219,-122.192337
+Roku,"San Jose, CA",158821,0,4.4,1,0,0,0,1,0,data scientist,Senior,San Jose,37.3361663,-121.890591
+Violet Ink,Remote,130000,1,4.2,1,1,1,1,0,1,data scientist,mid,Remote,,
+ADG Tech Consulting,Remote,120000,1,4.2,1,0,1,0,1,1,data scientist,Senior,Remote,,
+Slack,Remote,150200,0,4.5,1,1,0,0,0,1,data scientist,mid,Remote,,
+IBM,"Baton Rouge, LA",70785,0,4.1,1,1,1,1,0,1,data engineer,junior,Baton Rouge,30.4494155,-91.1869659
+Allscripts,"Boston, MA",99762,0,3.9,1,1,1,0,0,1,data scientist,junior,Boston,42.3554334,-71.060511
+The Trade Desk,"New York, NY",115151,0,4.2,1,1,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Yelp,Remote,158000,0,3.5,1,0,0,0,0,1,data scientist,Senior,Remote,,
+Waymo,"Mountain View, CA",140505,0,4.0,1,0,0,0,1,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+HERSHEY MX,"Hershey, PA",83212,0,3.9,1,0,0,0,1,1,data scientist,Senior,Hershey,40.2854881,-76.6506001
+mpathic.ai,Remote,140000,0,5.0,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Data Tecnica,"Glen Echo, MD",98828,0,5.0,1,0,0,0,0,1,data scientist,mid,Glen Echo,38.9693961,-77.1420877
+Liberty Mutual Insurance,Remote,124750,0,3.9,1,0,0,0,1,1,data scientist,mid,Remote,,
+Apptrics LLC,Remote,190000,1,5.0,1,0,0,0,0,1,data scientist,Senior,Remote,,
+BASF Corporation,"Morrisville, NC",100000,1,4.1,1,0,0,0,1,1,data scientist,junior,Morrisville,47.88338804999999,-55.76861996265019
+US Department of Energy - Agency Wide,"Wallops Island, VA",110520,0,4.1,1,0,0,1,0,1,data scientist,Senior,Wallops Island,37.88387115,-75.45616657057555
+OPENMIND TECHNOLOGIES INC,Remote,190000,1,4.2,1,1,0,0,1,1,data scientist,mid,Remote,,
+Johnson & Johnson,"Raritan, NJ",80173,0,4.2,1,0,0,0,1,1,data scientist,mid,Raritan,40.6958732,-90.8273591
+Anno.Ai,"Washington, DC",95695,0,2.0,1,1,0,0,1,1,data scientist,Senior,Washington,38.8950368,-77.0365427
+Activision,"Santa Monica, CA",133699,0,3.5,1,1,0,0,0,0,data scientist,Senior,Santa Monica,34.0194704,-118.491227
+Netflix,"Los Gatos, CA",142470,0,4.3,1,0,0,0,0,1,data scientist,Senior,Los Gatos,37.226611,-121.9746797
+PLAXONIC,"Edison, NJ",130000,0,4.6,1,0,0,0,0,1,data scientist,Senior,Edison,40.518157,-74.4113926
+FullStack Labs,"Jacksonville, FL",89862,0,4.7,0,0,1,1,0,0,data scientist,Senior,Jacksonville,30.3321838,-81.655651
+Corteva Agriscience,"Des Moines, IA",89838,0,4.0,1,0,0,1,0,1,data analyst,Senior,Des Moines,41.5868654,-93.6249494
+Ford Motor Company,"Dearborn, MI",95490,0,4.1,1,0,0,0,1,0,data scientist,Senior,Dearborn,42.3222599,-83.1763145
+"Amazon Web Services, Inc.",Remote,191100,0,3.8,1,0,0,1,0,0,data scientist,Senior,Remote,,
+"Amazon Web Services, Inc.",Remote,191100,0,3.8,1,0,0,1,0,0,data scientist,Senior,Remote,,
+Allstate,Remote,144000,0,3.5,1,1,0,1,1,1,data scientist,Senior,Remote,,
+Acquisition Solution,"Arlington, VA",104846,0,4.1,1,0,0,0,0,1,data scientist,Senior,Arlington,32.7355816,-97.1071186
+UC San Diego,"San Diego, CA",83250,0,4.2,1,0,0,0,1,0,data scientist,junior,San Diego,32.7174202,-117.162772
+Veracity Software,"Iselin, NJ",90061,0,4.1,1,0,0,0,0,1,data scientist,junior,Iselin,40.569335,-74.31511249016258
+Alldus International Consulting Ltd,Remote,185000,0,4.7,1,0,0,0,0,0,data scientist,Senior,Remote,,
+Radiant,Remote,170000,1,3.7,0,0,0,0,0,0,data scientist,mid,Remote,,
+Twitch,"San Francisco, CA",160000,0,4.0,1,0,0,0,1,0,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Match Inc,Remote,190000,1,3.0,1,0,0,0,1,1,data scientist,Senior,Remote,,
+IBM,"Monroe, LA",113644,0,4.1,1,0,1,1,0,1,data scientist,Senior,Monroe,41.0400423,-75.3249475
+MIT Lincoln Laboratory,"Lexington, MA",96449,0,4.3,0,0,0,0,0,0,data scientist,junior,Lexington,38.0464066,-84.4970393
+"JPMorgan Chase Bank, N.A.","Plano, TX",102469,0,3.8,0,0,0,0,1,1,data scientist,Senior,Plano,33.0136764,-96.6925096
+SAIF,Remote,10013,0,3.6,1,0,0,0,0,1,data scientist,mid,Remote,,
+Stanford Health Care,"Palo Alto, CA",134898,0,4.0,1,0,0,0,1,1,data scientist,Senior,Palo Alto,37.4443293,-122.1598465
+Ibotta,"Denver, CO",185000,0,3.8,1,1,0,0,1,1,data scientist,Senior,Denver,39.7392364,-104.984862
+Radiant,Remote,170000,1,3.7,0,0,0,0,0,0,data scientist,mid,Remote,,
+Occam Solutions,"Tampa, FL",99218,0,3.9,1,0,0,0,0,0,data scientist,Senior,Tampa,27.9477595,-82.458444
+Expert Technical Solutions,Remote,160000,0,5.0,1,0,1,1,0,1,data scientist,mid,Remote,,
+FriendFinder Networks,Remote,115000,0,2.8,1,0,0,0,1,1,data scientist,Senior,Remote,,
+eBay Inc.,"San Francisco, CA",149627,0,4.1,0,0,0,0,0,1,data scientist,mid,San Francisco,37.7792588,-122.4193286
+Faire,"San Francisco, CA",132791,0,4.8,0,0,0,0,0,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+Vision,Remote,134321,0,3.8,1,0,1,1,1,1,data scientist,Senior,Remote,,
+LeanTaaS,"Santa Clara, CA",116987,0,3.9,1,0,0,1,0,1,data scientist,mid,Santa Clara,37.2333253,-121.6846349
+Boston Scientific Corporation,"Arden Hills, MN",113641,0,4.2,1,0,1,0,0,0,data scientist,Senior,Arden Hills,45.0761409,-93.1666945
+Longevity InTime,Remote,125000,0,3.9,1,0,0,0,0,0,data scientist,Senior,Remote,,
+Improvix Technologies,"Reston, VA",92169,0,4.6,1,1,0,1,0,0,data scientist,mid,Reston,38.9583737,-77.3579805
+Logistics Management Institute,"Camp Lejeune, NC",96278,0,4.2,1,0,0,0,0,1,data scientist,junior,Camp Lejeune,34.63973385,-77.34183480015744
+Beck's Hybrids,"Atlanta, IN",94485,0,4.7,1,0,0,0,0,1,data scientist,mid,Atlanta,33.7489924,-84.3902644
+Amex,"New York, NY",127500,0,4.3,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Sysco,"Houston, TX",94113,0,3.2,1,0,0,0,0,0,data scientist,Senior,Houston,29.7589382,-95.3676974
+Aptara,"Pomona, CA",56280,1,3.4,1,0,0,0,0,0,data scientist,mid,Pomona,34.0553813,-117.7517496
+Expert Technical Solutions,Remote,160000,0,5.0,1,0,1,1,0,1,data scientist,mid,Remote,,
+Amex,"New York, NY",127500,0,4.3,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+JPL/NASA,"Pasadena, CA",131287,0,4.5,1,0,0,0,1,1,data scientist,Senior,Pasadena,34.1476507,-118.144155
+Plymouth Rock Assurance,"Woodbridge, NJ",98694,0,3.2,0,0,0,0,1,0,data scientist,Senior,Woodbridge,38.6361522,-77.26783643627006
+Devcare Solutions,Remote,125000,1,3.6,0,0,0,0,0,0,data scientist,Senior,Remote,,
+ABC Legal Services,"Seattle, WA",70000,0,2.8,1,0,0,1,0,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Lyra Health,"Burlingame, CA",113885,0,4.5,1,0,0,0,0,0,data scientist,Senior,Burlingame,37.5780965,-122.3473099
+Sepion Technologies,"Emeryville, CA",134163,0,5.0,1,0,0,1,1,1,data scientist,Senior,Emeryville,37.8314089,-122.2865266
+KeyBank,Remote,92500,0,3.8,1,0,1,1,1,1,data scientist,Senior,Remote,,
+Corteva Agriscience,"Indianapolis, IN",110963,0,4.0,0,0,0,0,1,1,data scientist,Senior,Indianapolis,39.7683331,-86.1583502
+BD,"Franklin Lakes, NJ",99003,0,3.9,1,1,1,1,1,1,data scientist,Senior,Franklin Lakes,41.0167639,-74.2057012
+Veho,Remote,176634,0,3.3,1,1,0,0,0,1,data scientist,Senior,Remote,,
+Swyfft,"New York, NY",126425,0,4.1,1,0,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Virginia Tech Applied Research Corporation,"Chantilly, VA",80947,0,3.4,1,0,0,0,0,0,data scientist,junior,Chantilly,49.1931736,2.4636686
+Ibotta,"Denver, CO",125000,0,3.8,1,1,0,0,0,1,data scientist,Senior,Denver,39.7392364,-104.984862
+PacArctic LLC,"Washington, DC",103789,0,4.5,1,0,0,0,0,0,data scientist,junior,Washington,38.8950368,-77.0365427
+3M,"Maplewood, MN",105654,0,3.8,0,0,1,1,1,1,data scientist,Senior,Maplewood,45.0082216,-93.0456985
+Altak Group,Remote,155000,1,2.0,1,0,0,0,1,1,data scientist,Senior,Remote,,
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Loon,"Mountain View, CA",110783,0,4.7,1,0,0,1,0,1,data scientist,mid,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+Bayer,"Chesterfield, MO",110000,0,4.2,1,0,0,1,0,1,data scientist,Senior,Chesterfield,37.3859982,-77.578509
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Booz Allen Hamilton,"Alexandria, VA",98706,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Atlassian,"Mountain View, CA",119046,0,4.7,0,0,0,0,0,1,data scientist,junior,Mountain View,37.3893889,-122.0832101
+The Trade Desk,"New York, NY",115151,0,4.2,1,1,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Kellogg Company,"Battle Creek, MI",117938,0,3.8,1,0,0,1,0,0,data scientist,Senior,Battle Creek,42.3192548,-85.1824269
+UT Southwestern Medical Center,Remote,93500,0,4.0,1,0,0,0,0,1,data scientist,mid,Remote,,
+Microsoft,"Redmond, WA",123486,0,4.4,1,0,0,1,0,1,data scientist,junior,Redmond,47.6694141,-122.1238767
+Notion,"New York, NY",137853,0,4.9,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+"Pomeroy Technologies, LLC.",Remote,110000,0,2.8,0,0,0,0,0,0,data scientist,mid,Remote,,
+PayPal,"Chicago, IL",109837,0,4.0,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Delta,"Atlanta, GA",103268,0,4.3,1,0,0,0,0,1,data scientist,junior,Atlanta,33.7489924,-84.3902644
+TrueChoice Solutions,"Vienna, NY",98706,0,4.0,1,0,0,0,1,1,data analyst,junior,Vienna,48.2083537,16.3725042
+Cloud to Street,"Brooklyn, NY",105732,0,5.0,0,0,0,0,0,1,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+Booz Allen Hamilton,"Alexandria, VA",102817,0,4.2,1,0,0,0,1,1,data scientist,junior,Alexandria,44.83495335,8.745030418605868
+Starz,"New York, NY",105016,0,2.9,1,0,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Amgen,"Thousand Oaks, CA",93901,0,4.1,1,0,0,0,1,1,data scientist,Senior,Thousand Oaks,34.1705609,-118.8375937
+Salesforce,Remote,150200,0,4.4,1,1,0,0,0,1,data scientist,mid,Remote,,
+TikTok,"Seattle, WA",123790,0,3.7,1,0,0,0,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Boston Scientific Corporation,"Marlborough, MA",116444,0,4.2,1,0,1,1,1,1,data scientist,Senior,Marlborough,51.420633,-1.7251743451994652
+Amazon.com Services LLC,"Pittsburgh, PA",113710,0,3.8,1,0,0,0,1,1,data scientist,mid,Pittsburgh,40.4416941,-79.9900861
+StoryFit,"Austin, TX",115874,0,4.4,1,0,0,0,0,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+i28 technologies corporation,"Marysville, MI",57500,0,4.2,1,0,0,0,0,0,data scientist,junior,Marysville,48.0517429,-122.1768209
+Atlassian,"Mountain View, CA",119046,0,4.7,0,0,0,0,0,1,data scientist,junior,Mountain View,37.3893889,-122.0832101
+The Trade Desk,"New York, NY",115151,0,4.2,1,1,0,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+IBM,"New York, NY",114768,0,4.1,1,0,1,1,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Kellogg Company,"Battle Creek, MI",117938,0,3.8,1,0,0,1,0,0,data scientist,Senior,Battle Creek,42.3192548,-85.1824269
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Experian,"New York, NY",114577,0,4.3,1,1,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+Xcel Energy,"Denver, CO",108667,0,3.8,1,0,0,0,1,1,data scientist,Senior,Denver,39.7392364,-104.984862
+Olo,"New York, NY",127500,0,3.4,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+Bayer,"Creve Coeur, MO",116952,0,4.2,0,0,0,0,1,1,data scientist,Senior,Creve Coeur,38.6613007,-90.4423653
+Etsy,"Brooklyn, NY",97000,0,4.5,1,0,0,0,0,0,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+National Security Agency,"Fort Meade, MD",125491,0,3.6,0,0,0,1,0,1,data scientist,Senior,Fort Meade,39.10319795,-76.74651732045955
+TikTok,"Seattle, WA",134155,0,3.6,1,0,0,0,0,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+"University of California, Davis","Davis, CA",107800,0,4.3,0,0,0,0,1,1,data scientist,Senior,Davis,40.7474784,-92.3965311
+The University of Chicago,"Chicago, IL",105228,0,4.2,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Stefanini Group,Remote,97000,1,3.7,1,0,1,1,0,1,data scientist,mid,Remote,,
+New York Red Bulls,"Whippany, NJ",107210,0,4.3,1,0,0,0,1,0,data scientist,mid,Whippany,40.8245442,-74.4170972
+NetSpend,Remote,155000,0,3.7,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Coding Dojo,Remote,90000,0,3.4,1,0,0,1,0,1,data scientist,mid,Remote,,
+UT Southwestern Medical Center,Remote,93500,0,3.9,1,0,0,0,0,1,data scientist,mid,Remote,,
+CareCentrix,Remote,100000,0,3.3,1,0,0,0,0,1,data scientist,Senior,Remote,,
+"VIZIO, Inc.","Irvine, CA",110000,0,3.7,1,0,0,0,1,1,data scientist,Senior,Irvine,33.6856969,-117.825981
+HERSHEY MX,"Hershey, PA",104167,0,3.9,1,1,1,1,1,1,data scientist,Senior,Hershey,40.2854881,-76.6506001
+Battelle,"Dayton, OH",95401,0,3.8,1,0,0,1,0,0,data scientist,Senior,Dayton,39.7589478,-84.1916069
+Coding Dojo,Remote,90000,0,3.4,1,0,0,1,0,1,data scientist,mid,Remote,,
+Booz Allen Hamilton,"Alexandria, VA",126650,0,4.2,1,0,1,1,0,1,data scientist,Senior,Alexandria,44.83495335,8.745030418605868
+Microsoft,"Redmond, WA",165200,0,4.4,0,0,1,1,0,1,data scientist,Senior,Redmond,47.6694141,-122.1238767
+Rockstar Games,Manhattan,123637,0,4.4,1,0,0,0,0,1,data scientist,Senior,Manhattan,40.7896239,-73.9598939
+Connect Staffing and Consulting,"Palo Alto, CA",185000,0,3.7,0,0,0,0,1,1,data scientist,mid,Palo Alto,37.4443293,-122.1598465
+Crumbl Cookies,"Lindon, UT",116043,0,4.6,1,0,0,1,1,1,data scientist,Senior,Lindon,40.3432857,-111.72076
+Data Tecnica,"Glen Echo, MD",135000,0,5.0,1,0,0,0,0,1,data scientist,mid,Glen Echo,38.9693961,-77.1420877
+The Brite Group,Remote,100000,0,3.2,1,0,0,0,0,0,data analyst,junior,Remote,,
+KAYAK,"Cambridge, MA",151851,0,4.3,1,0,0,0,0,0,data scientist,Senior,Cambridge,52.2055314,0.1186637
+Starbucks,"Seattle, WA",124950,0,3.7,1,0,1,1,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Stanford Health Care,"Palo Alto, CA",168560,1,4.0,1,0,0,0,1,1,data scientist,Senior,Palo Alto,37.4443293,-122.1598465
+Idaho National Laboratory,"Idaho Falls, ID",107694,0,4.0,1,1,0,0,0,0,data scientist,Senior,Idaho Falls,43.4887907,-112.03628
+Apolis,Remote,160000,1,4.3,1,0,0,0,0,1,data scientist,mid,Remote,,
+Largeton Inc,Remote,135000,1,3.5,1,0,0,0,0,1,data scientist,mid,Remote,,
+University of California Berkeley,"Berkeley, CA",113000,0,4.2,0,0,0,0,1,0,data scientist,Senior,Berkeley,37.8708393,-122.272863
+"JPMorgan Chase Bank, N.A.","Jersey City, NJ",119750,0,3.8,1,1,0,0,0,0,data scientist,junior,Jersey City,40.7215682,-74.047455
+Abiomed,"Danvers, MA",106771,0,3.6,1,0,1,1,1,1,data scientist,Senior,Danvers,42.566751,-70.9368313
+RTI International,"Durham, NC",86000,0,4.1,1,0,0,1,0,1,data scientist,Senior,Durham,54.666667,-1.75
+the NBA,"New York, NY",157500,0,4.1,1,0,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+The Brite Group,Remote,100000,0,3.2,1,0,0,0,0,0,data analyst,junior,Remote,,
+Apolis,Remote,160000,1,4.3,1,0,0,0,0,1,data scientist,mid,Remote,,
+Largeton Inc,Remote,135000,1,3.5,1,0,0,0,0,1,data scientist,mid,Remote,,
+Abiomed,"Danvers, MA",106771,0,3.6,1,0,1,1,1,1,data scientist,Senior,Danvers,42.566751,-70.9368313
+the NBA,"New York, NY",157500,0,4.1,1,0,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+"WhirlWind Technologies, LLC",Remote,98000,0,4.8,1,1,0,0,1,1,data scientist,junior,Remote,,
+MORSE Corp,"Cambridge, MA",99297,0,4.7,1,0,0,0,0,1,data scientist,mid,Cambridge,52.2055314,0.1186637
+Rockstar Games,Manhattan,112316,0,4.4,0,0,0,0,0,1,data scientist,junior,Manhattan,40.7896239,-73.9598939
+General Motors,Remote,116604,0,4.0,1,0,0,1,1,1,data scientist,Senior,Remote,,
+Steelcase,"Grand Rapids, MI",95602,0,4.0,1,1,0,0,0,1,data scientist,Senior,Grand Rapids,42.9632425,-85.6678639
+Augray,"Brookfield, WI",57500,0,4.1,1,0,0,0,0,1,data scientist,junior,Brookfield,43.0578479,-88.1261984
+Super Dispatch,Remote,110000,0,4.6,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Tesla,"Austin, TX",130223,0,3.6,0,0,0,0,0,0,data scientist,Senior,Austin,30.2711286,-97.7436995
+Audere,"Seattle, WA",89714,0,4.8,0,0,0,0,0,0,data scientist,mid,Seattle,47.6038321,-122.330062
+Verizon,"New York, NY",162500,0,3.8,1,0,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Massachusetts General Hospital(MGH),"Boston, MA",109137,0,4.0,1,0,0,0,1,1,data scientist,Senior,Boston,42.3554334,-71.060511
+Infinity Quest,Remote,140000,1,4.3,1,1,1,1,0,1,data scientist,mid,Remote,,
+GTA (Global Technology Associates),"Reston, VA",99098,0,4.4,1,0,0,1,0,0,data scientist,Senior,Reston,38.9530559,-77.35021396591173
+Thumbtack,"San Francisco, CA",163697,0,4.3,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Yale University,"New Haven, CT",109360,0,4.3,1,0,0,0,1,1,data scientist,Senior,New Haven,41.3082138,-72.9250518
+UC San Diego,"San Diego, CA",83250,0,4.2,1,0,0,0,1,0,data scientist,junior,San Diego,32.7174202,-117.162772
+MORSE Corp,"Cambridge, MA",99297,0,4.7,1,0,0,0,0,1,data scientist,mid,Cambridge,52.2055314,0.1186637
+Rockstar Games,Manhattan,112316,0,4.4,0,0,0,0,0,1,data scientist,junior,Manhattan,40.7896239,-73.9598939
+Super Dispatch,Remote,110000,0,4.6,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Infinity Quest,Remote,140000,1,4.3,1,1,1,1,0,1,data scientist,mid,Remote,,
+GTA (Global Technology Associates),"Reston, VA",99098,0,4.4,1,0,0,1,0,0,data scientist,Senior,Reston,38.9530559,-77.35021396591173
+Thumbtack,"San Francisco, CA",163697,0,4.3,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+UC San Diego,"San Diego, CA",83250,0,4.2,1,0,0,0,1,0,data scientist,junior,San Diego,32.7174202,-117.162772
+InSite Property Group,Remote,130000,0,4.4,1,0,0,1,0,0,data scientist,Senior,Remote,,
+Jacksonville Jaguars,"Jacksonville, FL",95647,0,4.4,1,0,0,1,0,0,data scientist,Senior,Jacksonville,30.3321838,-81.655651
+Revenue Management Solutions Llc,"Oklahoma City, OK",88563,0,2.4,1,0,0,0,1,0,data scientist,Senior,Oklahoma City,35.4729886,-97.5170536
+GEICO,"Chevy Chase, MD",110710,0,3.2,1,0,0,0,1,1,data scientist,Senior,Chevy Chase,38.9813699,-77.0849245
+AppZen,"San Jose, CA",165000,0,3.8,1,0,0,0,1,1,data scientist,Senior,San Jose,37.3361663,-121.890591
+Nemours,"Wilmington, DE",88174,0,3.7,1,0,0,0,0,1,data scientist,mid,Wilmington,39.7459468,-75.546589
+Activision,"Santa Monica, CA",132367,0,3.5,1,0,1,1,0,1,data scientist,Senior,Santa Monica,34.0194704,-118.491227
+Wolverine Trading,"Chicago, IL",109315,0,4.4,1,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+Wolverine Trading,"Chicago, IL",109315,0,4.4,1,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+ReedTMS Logistics,"Tampa, FL",92816,0,3.2,1,0,0,0,0,1,data scientist,Senior,Tampa,27.9477595,-82.458444
+Altamira,"Hurlburt Field, FL",89347,0,4.1,0,0,0,1,0,1,data scientist,junior,Hurlburt Field,30.4312921,-86.69022912473963
+Big Fish Games,"Las Vegas, NV",130522,0,3.7,1,0,0,0,0,1,data scientist,Senior,Las Vegas,36.1672559,-115.148516
+Assa Abloy,"Austin, TX",119344,0,3.7,1,0,0,0,1,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Retia Medical,"White Plains, NY",95293,0,3.2,1,0,0,0,0,1,data scientist,mid,White Plains,41.0339862,-73.7629097
+Viasat,Massachusetts,171850,0,4.2,1,1,0,0,1,1,data scientist,Senior,Massachusetts,42.3788774,-72.032366
+Kershner Trading,"Austin, TX",107323,0,3.6,1,0,0,0,0,0,data scientist,Senior,Austin,30.2711286,-97.7436995
+MIRROR,"New York, NY",114707,0,3.2,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+Faire,"San Francisco, CA",185250,0,4.8,0,0,0,0,0,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+BREVCO SERVICES,"Norfolk, VA",90892,0,2.9,1,1,1,0,1,1,data scientist,junior,Norfolk,52.666667,1.0
+GTA (Global Technology Associates),"Reston, VA",99098,0,4.4,1,0,0,1,0,0,data scientist,Senior,Reston,38.9530559,-77.35021396591173
+Thumbtack,"San Francisco, CA",163697,0,4.3,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Activision,"Santa Monica, CA",132367,0,3.5,1,0,1,1,0,1,data scientist,Senior,Santa Monica,34.0194704,-118.491227
+ReedTMS Logistics,"Tampa, FL",92816,0,3.2,1,0,0,0,0,1,data scientist,Senior,Tampa,27.9477595,-82.458444
+Altamira,"Hurlburt Field, FL",89347,0,4.1,0,0,0,1,0,1,data scientist,junior,Hurlburt Field,30.4312921,-86.69022912473963
+Kershner Trading,"Austin, TX",107323,0,3.6,1,0,0,0,0,0,data scientist,Senior,Austin,30.2711286,-97.7436995
+MIRROR,"New York, NY",114707,0,3.2,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+Edgetensor Technologies,Remote,105000,0,3.3,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Clearcover,"Chicago, IL",127026,0,4.1,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+FocusKPI Inc.,"Boston, MA",88578,0,3.3,1,0,0,0,1,0,data scientist,junior,Boston,42.3554334,-71.060511
+Noodles & Company | Noodles & Company,"Broomfield, CO",125000,0,3.6,1,0,1,0,0,1,data scientist,Senior,Broomfield,39.9403995,-105.05208
+Activision,"Santa Monica, CA",219592,0,3.5,1,0,0,0,0,0,data scientist,Senior,Santa Monica,34.0194704,-118.491227
+InMarket,"Austin, TX",237000,0,4.1,1,0,0,1,1,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Tech Impact,"Wilmington, DE",70000,0,4.2,1,0,1,0,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+Tech Impact,"Wilmington, DE",70000,0,4.2,1,0,1,0,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+TARGET,"Brooklyn Park, MN",65773,0,3.6,1,0,0,1,1,1,data scientist,Senior,Brooklyn Park,45.1004807,-93.3443585
+GM Financial,Remote,137350,0,3.8,1,0,0,0,1,1,data scientist,Senior,Remote,,
+Wise Equation Solutions,"Austin, TX",96446,0,4.9,0,0,0,0,0,1,data scientist,mid,Austin,30.2711286,-97.7436995
+HunaTek Government Solutions,"Stafford, VA",155000,0,4.0,1,1,0,0,1,1,data scientist,Senior,Stafford,52.8063157,-2.1163818
+Virginia Tech Applied Research Corporation,"Arlington, VA",84850,0,3.4,1,0,0,0,0,0,data scientist,junior,Arlington,32.7355816,-97.1071186
+Stefanini,"Durham, NC",100000,1,3.7,1,0,1,1,0,1,data scientist,mid,Durham,54.666667,-1.75
+"City of Grand Junction, Colorado","Grand Junction, CO",7501,0,3.7,0,0,0,0,1,1,data scientist,Senior,Grand Junction,39.0672568,-108.56448
+Snowflake,"San Mateo, CA",183250,0,4.3,1,0,0,0,1,1,data scientist,Senior,San Mateo,37.496904,-122.3330573
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+Stefanini Group,Remote,97000,1,3.7,1,0,1,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+Stefanini Group,Remote,97000,1,3.7,1,0,1,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+Stefanini Group,Remote,97000,1,3.7,1,0,1,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+Stefanini Group,Remote,97000,1,3.7,1,0,1,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+Stefanini Group,Remote,97000,1,3.7,1,0,1,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+Olo,"New York, NY",127500,0,3.4,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+Bayer,"Creve Coeur, MO",116952,0,4.2,0,0,0,0,1,1,data scientist,Senior,Creve Coeur,38.6613007,-90.4423653
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+Xcel Energy,"Denver, CO",108667,0,3.8,1,0,0,0,1,1,data scientist,Senior,Denver,39.7392364,-104.984862
+National Security Agency,"Fort Meade, MD",125491,0,3.6,0,0,0,1,0,1,data scientist,Senior,Fort Meade,39.10319795,-76.74651732045955
+TikTok,"Seattle, WA",134155,0,3.6,1,0,0,0,0,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+"University of California, Davis","Davis, CA",107800,0,4.3,0,0,0,0,1,1,data scientist,Senior,Davis,40.7474784,-92.3965311
+CareCentrix,Remote,100000,0,3.3,1,0,0,0,0,1,data scientist,Senior,Remote,,
+The University of Chicago,"Chicago, IL",105228,0,4.2,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+New York Red Bulls,"Whippany, NJ",107210,0,4.3,1,0,0,0,1,0,data scientist,mid,Whippany,40.8245442,-74.4170972
+Etsy,"Brooklyn, NY",97000,0,4.5,1,0,0,0,0,0,data scientist,Senior,Brooklyn,40.6526006,-73.9497211
+NetSpend,Remote,155000,0,3.7,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Coding Dojo,Remote,90000,0,3.4,1,0,0,1,0,1,data scientist,mid,Remote,,
+UT Southwestern Medical Center,Remote,93500,0,3.9,1,0,0,0,0,1,data scientist,mid,Remote,,
+"VIZIO, Inc.","Irvine, CA",110000,0,3.7,1,0,0,0,1,1,data scientist,Senior,Irvine,33.6856969,-117.825981
+HERSHEY MX,"Hershey, PA",104167,0,3.9,1,1,1,1,1,1,data scientist,Senior,Hershey,40.2854881,-76.6506001
+Battelle,"Dayton, OH",95401,0,3.8,1,0,0,1,0,0,data scientist,Senior,Dayton,39.7589478,-84.1916069
+Booz Allen Hamilton,"Alexandria, VA",126650,0,4.2,1,0,1,1,0,1,data scientist,Senior,Alexandria,44.83495335,8.745030418605868
+Experian,"New York, NY",114577,0,4.3,1,1,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Microsoft,"Redmond, WA",165200,0,4.4,0,0,1,1,0,1,data scientist,Senior,Redmond,47.6694141,-122.1238767
+Rockstar Games,Manhattan,123637,0,4.4,1,0,0,0,0,1,data scientist,Senior,Manhattan,40.7896239,-73.9598939
+Connect Staffing and Consulting,"Palo Alto, CA",185000,0,3.7,0,0,0,0,1,1,data scientist,mid,Palo Alto,37.4443293,-122.1598465
+Argonne National Laboratory,"Lemont, IL",93708,0,4.5,0,0,0,0,0,1,data scientist,mid,Lemont,41.6737149,-88.0016263
+Crumbl Cookies,"Lindon, UT",116043,0,4.6,1,0,0,1,1,1,data scientist,Senior,Lindon,40.3432857,-111.72076
+Logistics Management Institute,"Tysons Corner, VA",99187,0,4.3,1,0,0,0,0,1,data scientist,junior,Tysons Corner,38.9191272,-77.22296360086021
+Data Tecnica,"Glen Echo, MD",135000,0,5.0,1,0,0,0,0,1,data scientist,mid,Glen Echo,38.9693961,-77.1420877
+The Brite Group,Remote,100000,0,3.2,1,0,0,0,0,0,data analyst,junior,Remote,,
+KAYAK,"Cambridge, MA",151851,0,4.3,1,0,0,0,0,0,data scientist,Senior,Cambridge,52.2055314,0.1186637
+Starbucks,"Seattle, WA",124950,0,3.7,1,0,1,1,1,1,data scientist,Senior,Seattle,47.6038321,-122.330062
+Stanford Health Care,"Palo Alto, CA",168560,1,4.0,1,0,0,0,1,1,data scientist,Senior,Palo Alto,37.4443293,-122.1598465
+Idaho National Laboratory,"Idaho Falls, ID",107694,0,4.0,1,1,0,0,0,0,data scientist,Senior,Idaho Falls,43.4887907,-112.03628
+Apolis,Remote,160000,1,4.3,1,0,0,0,0,1,data scientist,mid,Remote,,
+Largeton Inc,Remote,135000,1,3.5,1,0,0,0,0,1,data scientist,mid,Remote,,
+University of California Berkeley,"Berkeley, CA",113000,0,4.2,0,0,0,0,1,0,data scientist,Senior,Berkeley,37.8708393,-122.272863
+"JPMorgan Chase Bank, N.A.","Jersey City, NJ",119750,0,3.8,1,1,0,0,0,0,data scientist,junior,Jersey City,40.7215682,-74.047455
+Abiomed,"Danvers, MA",106771,0,3.6,1,0,1,1,1,1,data scientist,Senior,Danvers,42.566751,-70.9368313
+RTI International,"Durham, NC",86000,0,4.1,1,0,0,1,0,1,data scientist,Senior,Durham,54.666667,-1.75
+the NBA,"New York, NY",157500,0,4.1,1,0,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+"Lucas Systems, Inc.","Wexford, PA",86117,0,4.3,1,0,1,0,1,1,data scientist,Senior,Wexford,52.3367671,-6.4601397
+"WhirlWind Technologies, LLC",Remote,98000,0,4.8,1,1,0,0,1,1,data scientist,junior,Remote,,
+Southwest Airlines,"Dallas, TX",109526,0,4.2,1,0,0,0,0,1,data scientist,Senior,Dallas,32.7762719,-96.7968559
+Corteva,"Des Moines, IA",107865,0,4.0,1,0,0,0,1,1,data scientist,Senior,Des Moines,41.5868654,-93.6249494
+Battelle,"Columbus, OH",66151,0,3.8,0,0,0,1,0,1,data scientist,Senior,Columbus,39.9622601,-83.0007065
+MORSE Corp,"Cambridge, MA",99297,0,4.7,1,0,0,0,0,1,data scientist,mid,Cambridge,52.2055314,0.1186637
+Rockstar Games,Manhattan,112316,0,4.4,0,0,0,0,0,1,data scientist,junior,Manhattan,40.7896239,-73.9598939
+General Motors,Remote,116604,0,4.0,1,0,0,1,1,1,data scientist,Senior,Remote,,
+Steelcase,"Grand Rapids, MI",95602,0,4.0,1,1,0,0,0,1,data scientist,Senior,Grand Rapids,42.9632425,-85.6678639
+Grinnell College,"Grinnell, IA",81911,0,4.0,1,0,0,0,1,0,data scientist,Senior,Grinnell,39.12723,-100.629031
+Augray,"Brookfield, WI",57500,0,4.1,1,0,0,0,0,1,data scientist,junior,Brookfield,43.0578479,-88.1261984
+Super Dispatch,Remote,110000,0,4.6,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Tesla,"Austin, TX",130223,0,3.6,0,0,0,0,0,0,data scientist,Senior,Austin,30.2711286,-97.7436995
+Edgetensor Technologies,Remote,105000,0,3.3,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Audere,"Seattle, WA",89714,0,4.8,0,0,0,0,0,0,data scientist,mid,Seattle,47.6038321,-122.330062
+Verizon,"New York, NY",162500,0,3.8,1,0,0,0,0,1,data scientist,Senior,New York,40.7127281,-74.0060152
+GM Financial,Remote,137350,0,3.8,1,0,0,0,1,1,data scientist,Senior,Remote,,
+Massachusetts General Hospital(MGH),"Boston, MA",109137,0,4.0,1,0,0,0,1,1,data scientist,Senior,Boston,42.3554334,-71.060511
+Infinity Quest,Remote,140000,1,4.3,1,1,1,1,0,1,data scientist,mid,Remote,,
+GTA (Global Technology Associates),"Reston, VA",99098,0,4.4,1,0,0,1,0,0,data scientist,Senior,Reston,38.9530559,-77.35021396591173
+Thumbtack,"San Francisco, CA",163697,0,4.3,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Yale University,"New Haven, CT",109360,0,4.3,1,0,0,0,1,1,data scientist,Senior,New Haven,41.3082138,-72.9250518
+UC San Diego,"San Diego, CA",83250,0,4.2,1,0,0,0,1,0,data scientist,junior,San Diego,32.7174202,-117.162772
+thatgamecompany,"Santa Monica, CA",102271,0,5.0,1,1,0,0,0,1,data scientist,mid,Santa Monica,34.0194704,-118.491227
+InSite Property Group,Remote,130000,0,4.4,1,0,0,1,0,0,data scientist,Senior,Remote,,
+Uber,"San Francisco, CA",117000,0,4.0,1,0,0,0,1,0,data scientist,mid,San Francisco,37.7792588,-122.4193286
+Conagra Brands,"Chicago, IL",99291,0,3.7,1,1,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Jacksonville Jaguars,"Jacksonville, FL",95647,0,4.4,1,0,0,1,0,0,data scientist,Senior,Jacksonville,30.3321838,-81.655651
+Revenue Management Solutions Llc,"Oklahoma City, OK",88563,0,2.4,1,0,0,0,1,0,data scientist,Senior,Oklahoma City,35.4729886,-97.5170536
+GEICO,"Chevy Chase, MD",110710,0,3.2,1,0,0,0,1,1,data scientist,Senior,Chevy Chase,38.9813699,-77.0849245
+AppZen,"San Jose, CA",165000,0,3.8,1,0,0,0,1,1,data scientist,Senior,San Jose,37.3361663,-121.890591
+Nemours,"Wilmington, DE",88174,0,3.7,1,0,0,0,0,1,data scientist,mid,Wilmington,39.7459468,-75.546589
+Activision,"Santa Monica, CA",132367,0,3.5,1,0,1,1,0,1,data scientist,Senior,Santa Monica,34.0194704,-118.491227
+CVS Health,"New York, NY",135000,0,3.1,1,0,1,1,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Wolverine Trading,"Chicago, IL",109315,0,4.4,1,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+ReedTMS Logistics,"Tampa, FL",92816,0,3.2,1,0,0,0,0,1,data scientist,Senior,Tampa,27.9477595,-82.458444
+Altamira,"Hurlburt Field, FL",89347,0,4.1,0,0,0,1,0,1,data scientist,junior,Hurlburt Field,30.4312921,-86.69022912473963
+Big Fish Games,"Las Vegas, NV",130522,0,3.7,1,0,0,0,0,1,data scientist,Senior,Las Vegas,36.1672559,-115.148516
+Assa Abloy,"Austin, TX",119344,0,3.7,1,0,0,0,1,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Retia Medical,"White Plains, NY",95293,0,3.2,1,0,0,0,0,1,data scientist,mid,White Plains,41.0339862,-73.7629097
+Viasat,Massachusetts,171850,0,4.2,1,1,0,0,1,1,data scientist,Senior,Massachusetts,42.3788774,-72.032366
+Kershner Trading,"Austin, TX",107323,0,3.6,1,0,0,0,0,0,data scientist,Senior,Austin,30.2711286,-97.7436995
+MIRROR,"New York, NY",114707,0,3.2,1,0,0,0,0,0,data scientist,Senior,New York,40.7127281,-74.0060152
+Faire,"San Francisco, CA",185250,0,4.8,0,0,0,0,0,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+BREVCO SERVICES,"Norfolk, VA",90892,0,2.9,1,1,1,0,1,1,data scientist,junior,Norfolk,52.666667,1.0
+Fidelity Investments,"Boston, MA",122730,0,4.3,1,1,0,1,1,1,data scientist,Senior,Boston,42.3554334,-71.060511
+Clearcover,"Chicago, IL",127026,0,4.1,1,0,0,0,0,1,data scientist,Senior,Chicago,41.8755616,-87.6244212
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+"US News & World Report ,L.P.","Washington, DC",86801,0,3.9,0,0,0,0,0,0,data scientist,Senior,Washington,38.8950368,-77.0365427
+FocusKPI Inc.,"Boston, MA",88578,0,3.3,1,0,0,0,1,0,data scientist,junior,Boston,42.3554334,-71.060511
+Noodles & Company | Noodles & Company,"Broomfield, CO",125000,0,3.6,1,0,1,0,0,1,data scientist,Senior,Broomfield,39.9403995,-105.05208
+Activision,"Santa Monica, CA",219592,0,3.5,1,0,0,0,0,0,data scientist,Senior,Santa Monica,34.0194704,-118.491227
+InMarket,"Austin, TX",237000,0,4.1,1,0,0,1,1,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Tech Impact,"Wilmington, DE",70000,0,4.2,1,0,1,0,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+KSA Integration,"Norfolk, VA",83440,0,4.6,1,1,1,0,0,1,data scientist,junior,Norfolk,52.666667,1.0
+OBMedia,Remote,195000,0,4.0,1,1,0,0,0,1,data scientist,Senior,Remote,,
+TikTok,"Mountain View, CA",184845,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+TARGET,"Brooklyn Park, MN",65773,0,3.6,1,0,0,1,1,1,data scientist,Senior,Brooklyn Park,45.1004807,-93.3443585
+"Medical Solutions, LLC","Omaha, NE",117500,0,4.4,1,0,1,0,0,1,data scientist,Senior,Omaha,41.2587459,-95.9383758
+Wise Equation Solutions,"Austin, TX",96446,0,4.9,0,0,0,0,0,1,data scientist,mid,Austin,30.2711286,-97.7436995
+HunaTek Government Solutions,"Stafford, VA",155000,0,4.0,1,1,0,0,1,1,data scientist,Senior,Stafford,52.8063157,-2.1163818
+Virginia Tech Applied Research Corporation,"Arlington, VA",84850,0,3.4,1,0,0,0,0,0,data scientist,junior,Arlington,32.7355816,-97.1071186
+Stefanini,"Durham, NC",100000,1,3.7,1,0,1,1,0,1,data scientist,mid,Durham,54.666667,-1.75
+TikTok,"Mountain View, CA",224500,0,3.6,1,0,0,0,0,0,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+"City of Grand Junction, Colorado","Grand Junction, CO",7501,0,3.7,0,0,0,0,1,1,data scientist,Senior,Grand Junction,39.0672568,-108.56448
+Snowflake,"San Mateo, CA",183250,0,4.3,1,0,0,0,1,1,data scientist,Senior,San Mateo,37.496904,-122.3330573
+ASK Consulting,Township of Lawrence,124801,0,3.7,1,0,0,0,1,1,data scientist,junior,Township of Lawrence,40.3061809,-80.1206111
+Deloitte,"Austin, TX",127499,0,4.0,1,1,0,0,1,1,data scientist,Senior,Austin,30.2711286,-97.7436995
+Keystone Strategy,"Boston, MA",147500,0,3.6,0,0,0,1,1,1,data scientist,Senior,Boston,42.3554334,-71.060511
+Lakeland Regional Health,Remote,132662,0,3.6,1,1,0,1,0,0,data scientist,Senior,Remote,,
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Verily,"South San Francisco, CA",121382,0,4.1,1,0,0,0,0,1,data scientist,Senior,South San Francisco,37.6535403,-122.4168664
+Snowflake,"San Mateo, CA",175500,0,4.3,1,0,0,0,1,0,data scientist,Senior,San Mateo,37.496904,-122.3330573
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Logistics Management Institute,"Tysons Corner, VA",99187,0,4.3,1,0,0,0,0,1,data scientist,junior,Tysons Corner,38.918592,-77.2314723
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Logistics Management Institute,"Tysons Corner, VA",99187,0,4.3,1,0,0,0,0,1,data scientist,junior,Tysons Corner,38.918592,-77.2314723
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Logistics Management Institute,"Tysons Corner, VA",99187,0,4.3,1,0,0,0,0,1,data scientist,junior,Tysons Corner,38.9191272,-77.22296360086021
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106718,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+Logistics Management Institute,"Tysons Corner, VA",99187,0,4.3,1,0,0,0,0,1,data scientist,junior,Tysons Corner,38.9191272,-77.22296360086021
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106785,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Ancestry,"San Francisco, CA",129500,0,3.7,1,0,0,1,1,1,data scientist,Senior,San Francisco,37.7792588,-122.4193286
+Barclays,"New York, NY",185000,0,4.0,1,0,0,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Cisco Systems,"Research Triangle Park, NC",115673,0,4.3,1,1,0,1,1,1,data scientist,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Dianthus,"New York, NY",124335,0,3.3,1,0,1,0,1,1,data scientist,Senior,New York,40.7127281,-74.0060152
+Lawrence Livermore National Laboratory,"Livermore, CA",121209,0,4.4,1,0,0,1,0,1,data scientist,junior,Livermore,37.6820583,-121.768053
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+Bayer,Remote,100000,0,4.4,1,0,0,1,0,1,data scientist,Senior,Remote,,
+LPL Financial,South Carolina,113750,0,3.9,1,0,0,0,0,0,data scientist,Senior,South Carolina,33.6874388,-80.4363743
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+MultiPlan Inc.,Remote,120000,0,3.8,1,0,0,1,0,1,data scientist,mid,Remote,,
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+YES Communities,"Greenwood Village, CO",87500,0,4.0,1,0,0,0,1,0,data analyst,junior,Greenwood Village,39.6172101,-104.950814
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Mars,"Chicago, IL",106785,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Abbott Laboratories,"Abbott Park, IL",102372,0,3.8,1,0,0,0,0,1,data scientist,Senior,Abbott Park,-21.16592065,149.18403939164872
+HP,"Spring, TX",95911,0,4.2,0,0,0,0,1,0,data engineer,Senior,Spring,30.0795707,-95.4187924
+CloudRay Inc,"San Francisco, CA",142932,0,4.7,1,0,0,0,0,0,data engineer,Senior,San Francisco,37.7792588,-122.4193286
+Bose,"Framingham, MA",91998,0,3.8,1,0,0,1,0,0,data engineer,junior,Framingham,42.2773177,-71.4165905
+TekwissenLLc,Remote,120000,1,4.4,0,0,0,0,0,0,data engineer,Senior,Remote,,
+TikTok,"Seattle, WA",223775,0,3.6,0,1,0,0,0,0,data engineer,Senior,Seattle,47.6038321,-122.330062
+FutureFit AI,"Ontario, CA",131861,0,5.0,1,0,0,0,1,1,data engineer,Senior,Ontario,50.000678,-86.000977
+Amiga Informatics Pvt. Ltd,Remote,137324,0,4.1,0,0,0,0,0,0,data engineer,Senior,Remote,,
+Resideo,"Austin, TX",92625,0,3.9,1,1,1,1,1,1,data engineer,junior,Austin,30.2711286,-97.7436995
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+John Deere,"Moline, IL",104647,0,4.1,1,0,0,1,1,0,data engineer,mid,Moline,41.5058344,-90.5136642
+Volto Consulting,Remote,105000,1,5.0,0,0,0,1,0,0,data engineer,mid,Remote,,
+Tekcogno,Remote,101936,0,4.5,1,0,0,1,1,0,data engineer,mid,Remote,,
+"University of California, Davis","Davis, CA",61680,1,4.3,0,0,0,0,1,0,data engineer,mid,Davis,40.7474784,-92.3965311
+The Bank of Missouri,"Perryville, MO",42700,0,4.3,1,0,0,0,0,0,data engineer,junior,Perryville,39.5594191,-76.0732254
+ASCENDING,"Rockville, MD",95893,0,4.2,1,1,0,1,0,0,data engineer,mid,Rockville,39.0817985,-77.1516844
+Capella University,"Minneapolis, MN",71793,0,3.7,1,0,0,0,1,0,data engineer,junior,Minneapolis,44.9772995,-93.2654692
+Harvey Nash,Remote,90000,1,4.1,0,0,1,1,1,0,data engineer,Senior,Remote,,
+Workforce Opportunity Services,"Dallas, TX",44000,1,3.3,0,0,0,0,0,0,data engineer,junior,Dallas,32.7762719,-96.7968559
+MCG Health,United States,135800,0,4.6,1,1,1,1,0,0,data engineer,Senior,United States,39.7837304,-100.445882
+CVS Health,Texas,105000,0,3.1,1,0,0,0,0,1,data engineer,Senior,Texas,31.2638905,-98.5456116
+"Hyatt Corporate Office, Chicago","Chicago, IL",71990,0,4.0,1,1,0,1,0,1,data engineer,Senior,Chicago,41.8755616,-87.6244212
+Excelgens,Remote,85000,1,4.7,1,0,0,0,0,0,data engineer,mid,Remote,,
+"Stuller, Inc.","Lafayette, LA",90402,0,3.3,1,0,0,1,0,0,data engineer,mid,Lafayette,30.2262187,-92.0178202
+"Spiff, Inc.",Remote,110000,0,4.1,1,0,1,1,0,1,data engineer,Senior,Remote,,
+urpan technology,Remote,95000,1,4.5,1,0,0,0,1,0,data engineer,Senior,Remote,,
+Mars,"Franklin, TN",105299,0,4.3,1,1,1,1,0,0,data engineer,junior,Franklin,39.9259345,-77.7485516
+Rxadvance Corporation,"Southborough, MA",93316,0,3.2,1,0,0,1,0,0,data engineer,junior,Southborough,42.3056501,-71.5245087
+LoanPro,"Farmington, UT",90407,0,4.8,1,1,0,1,1,1,data engineer,Senior,Farmington,41.7198216,-72.8320435
+Tampa Bay Rays,"Saint Petersburg, FL",78453,0,4.1,1,1,1,0,1,0,data engineer,Senior,Saint Petersburg,59.938732,30.316229
+"Amick Brown, LLC","Santa Clara, CA",127680,0,4.9,1,0,0,1,1,1,data engineer,mid,Santa Clara,37.2333253,-121.6846349
+Arthur Grand Technologies Inc,"Charlotte, NC",94719,0,4.8,0,0,1,0,0,0,data engineer,mid,Charlotte,35.2272086,-80.8430827
+Gravie,"Minneapolis, MN",93028,0,3.6,0,0,0,1,1,0,data engineer,Senior,Minneapolis,44.9772995,-93.2654692
+HirexHire,"Chicago, IL",86855,0,5.0,1,0,0,0,0,0,data engineer,mid,Chicago,41.8755616,-87.6244212
+Aledade,"Bethesda, MD",116258,0,4.8,1,0,0,1,0,0,data engineer,Senior,Bethesda,38.9846816,-77.0942447
+Cisco Systems,"Research Triangle Park, NC",125983,0,4.3,0,0,0,0,0,0,data engineer,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+HP,"Spring, TX",95911,0,4.2,0,0,0,0,1,0,data engineer,Senior,Spring,30.0795707,-95.4187924
+CloudRay Inc,"San Francisco, CA",142932,0,4.7,1,0,0,0,0,0,data engineer,Senior,San Francisco,37.7792588,-122.4193286
+Bose,"Framingham, MA",91998,0,3.8,1,0,0,1,0,0,data engineer,junior,Framingham,42.2773177,-71.4165905
+TekwissenLLc,Remote,120000,1,4.4,0,0,0,0,0,0,data engineer,Senior,Remote,,
+TikTok,"Seattle, WA",223775,0,3.6,0,1,0,0,0,0,data engineer,Senior,Seattle,47.6038321,-122.330062
+FutureFit AI,"Ontario, CA",131861,0,5.0,1,0,0,0,1,1,data engineer,Senior,Ontario,50.000678,-86.000977
+Amiga Informatics Pvt. Ltd,Remote,137324,0,4.1,0,0,0,0,0,0,data engineer,Senior,Remote,,
+Resideo,"Austin, TX",92625,0,3.9,1,1,1,1,1,1,data engineer,junior,Austin,30.2711286,-97.7436995
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+John Deere,"Moline, IL",104647,0,4.1,1,0,0,1,1,0,data engineer,mid,Moline,41.5058344,-90.5136642
+Volto Consulting,Remote,105000,1,5.0,0,0,0,1,0,0,data engineer,mid,Remote,,
+Tekcogno,Remote,101936,0,4.5,1,0,0,1,1,0,data engineer,mid,Remote,,
+"University of California, Davis","Davis, CA",61680,1,4.3,0,0,0,0,1,0,data engineer,mid,Davis,40.7474784,-92.3965311
+ASCENDING,"Rockville, MD",95893,0,4.2,1,1,0,1,0,0,data engineer,mid,Rockville,39.0817985,-77.1516844
+Capella University,"Minneapolis, MN",71793,0,3.7,1,0,0,0,1,0,data engineer,junior,Minneapolis,44.9772995,-93.2654692
+Harvey Nash,Remote,90000,1,4.1,0,0,1,1,1,0,data engineer,Senior,Remote,,
+Workforce Opportunity Services,"Dallas, TX",44000,1,3.3,0,0,0,0,0,0,data engineer,junior,Dallas,32.7762719,-96.7968559
+MCG Health,United States,135800,0,4.6,1,1,1,1,0,0,data engineer,Senior,United States,39.7837304,-100.445882
+The Bank of Missouri,"Perryville, MO",42700,0,4.3,1,0,0,0,0,0,data engineer,junior,Perryville,39.5594191,-76.0732254
+CVS Health,Texas,105000,0,3.1,1,0,0,0,0,1,data engineer,Senior,Texas,31.2638905,-98.5456116
+"Hyatt Corporate Office, Chicago","Chicago, IL",71990,0,4.0,1,1,0,1,0,1,data engineer,Senior,Chicago,41.8755616,-87.6244212
+Excelgens,Remote,85000,1,4.7,1,0,0,0,0,0,data engineer,mid,Remote,,
+Mars,"Chicago, IL",100932,0,4.3,1,1,1,1,0,1,data engineer,Senior,Chicago,41.8755616,-87.6244212
+"Stuller, Inc.","Lafayette, LA",90402,0,3.3,1,0,0,1,0,0,data engineer,mid,Lafayette,30.2262187,-92.0178202
+"Spiff, Inc.",Remote,110000,0,4.1,1,0,1,1,0,1,data engineer,Senior,Remote,,
+urpan technology,Remote,95000,1,4.5,1,0,0,0,1,0,data engineer,Senior,Remote,,
+Rxadvance Corporation,"Southborough, MA",93316,0,3.2,1,0,0,1,0,0,data engineer,junior,Southborough,42.3056501,-71.5245087
+LoanPro,"Farmington, UT",90407,0,4.8,1,1,0,1,1,1,data engineer,Senior,Farmington,41.7198216,-72.8320435
+Tampa Bay Rays,"Saint Petersburg, FL",78453,0,4.1,1,1,1,0,1,0,data engineer,Senior,Saint Petersburg,59.938732,30.316229
+"Amick Brown, LLC","Santa Clara, CA",127680,0,4.9,1,0,0,1,1,1,data engineer,mid,Santa Clara,37.2333253,-121.6846349
+Arthur Grand Technologies Inc,"Charlotte, NC",94719,0,4.8,0,0,1,0,0,0,data engineer,mid,Charlotte,35.2272086,-80.8430827
+Gravie,"Minneapolis, MN",93028,0,3.6,0,0,0,1,1,0,data engineer,Senior,Minneapolis,44.9772995,-93.2654692
+HirexHire,"Chicago, IL",86855,0,5.0,1,0,0,0,0,0,data engineer,mid,Chicago,41.8755616,-87.6244212
+Cisco Systems,"Research Triangle Park, NC",125983,0,4.3,0,0,0,0,0,0,data engineer,Senior,Research Triangle Park,35.8923773,-78.86588989367681
+SnappyHires,"McLean, VA",139000,1,4.9,1,1,0,1,0,0,data engineer,Senior,McLean,40.4631789,-88.8196613
+Apolis,Remote,170000,1,4.3,1,1,0,1,0,0,data engineer,Senior,Remote,,
+N9 IT SOLUTIONS,Remote,84000,1,4.5,1,0,0,1,0,0,data engineer,mid,Remote,,
+NOVUS Professional Services Inc.,"Greenwood Village, CO",160000,1,2.4,1,0,0,1,1,0,data engineer,Senior,Greenwood Village,39.6172101,-104.950814
+Curinos,"New York, NY",105000,0,3.4,1,0,0,0,1,1,data engineer,Senior,New York,40.7127281,-74.0060152
+SETI Institute,"Mountain View, CA",127227,0,4.8,1,0,0,0,1,0,data engineer,mid,Mountain View,37.3893889,-122.0832101
+Xforia Inc,"Durham, NC",96511,0,3.4,1,0,0,0,0,0,data engineer,mid,Durham,54.666667,-1.75
+General Mills,"Minneapolis, MN",124923,0,4.1,1,1,0,0,1,1,data engineer,Senior,Minneapolis,44.9772995,-93.2654692
+Lightcast,"Moscow, ID",75312,0,4.4,0,1,0,1,0,1,data engineer,mid,Moscow,55.625578,37.6063916
+Violet Ink,"Newark, NJ",120000,1,3.9,0,0,0,1,0,0,data engineer,Senior,Newark,40.735657,-74.1723667
+Synchrony,"Chicago, IL",90000,0,4.3,1,1,1,1,1,0,data engineer,Senior,Chicago,41.8755616,-87.6244212
+Preludesys,"Austin, TX",103817,0,3.8,1,0,1,0,0,0,data engineer,mid,Austin,30.2711286,-97.7436995
+Archon Resources,"Tulsa, OK",120000,1,3.4,0,0,1,0,0,0,data engineer,mid,Tulsa,36.1563122,-95.9927516
+CCC,"Chicago, IL",95136,0,4.2,1,1,0,1,0,0,data engineer,Senior,Chicago,41.8755616,-87.6244212
+TogetherHealth,"Tampa, FL",92237,0,3.1,1,0,1,0,0,0,data engineer,Senior,Tampa,27.9477595,-82.458444
+Stanford Health Care,"Palo Alto, CA",118820,1,4.0,0,0,0,0,0,0,data engineer,Senior,Palo Alto,37.4443293,-122.1598465
+Applied Information Sciences,"Reston, VA",103557,0,4.5,0,0,1,0,1,0,data engineer,Senior,Reston,38.9583737,-77.3579805
+Precision Solutions,"Washington, DC",109585,0,4.2,1,0,1,1,0,0,data engineer,Senior,Washington,38.8950368,-77.0365427
+Decision Point Healthcare,"Boston, MA",92003,0,5.0,0,0,0,1,1,0,data engineer,junior,Boston,42.3554334,-71.060511
+Altamira,"Springfield, VA",90418,0,4.1,0,1,1,1,0,0,data engineer,junior,Springfield,39.7990175,-89.6439575
+N9 IT SOLUTIONS,Remote,70000,1,4.5,1,0,0,1,0,0,data engineer,junior,Remote,,
+Computing Concepts Inc,"New York, NY",118520,1,3.3,1,0,0,0,0,0,data engineer,Senior,New York,40.7127281,-74.0060152
+Adobe,"Lehi, UT",137250,0,4.4,1,1,0,0,0,0,data engineer,mid,Lehi,40.3881114,-111.8486019
+Genspark,"Dover, MO",75000,1,3.9,1,1,0,0,1,0,data engineer,Senior,Dover,51.1251275,1.3134228
+CareFirst BlueCross BlueShield,"Washington, DC",92305,0,3.5,1,0,0,0,1,0,data engineer,junior,Washington,38.8950368,-77.0365427
+Strayer University,"Minneapolis, MN",73513,0,3.0,1,0,0,0,1,0,data engineer,junior,Minneapolis,44.9772995,-93.2654692
+iPipeline,"Exton, PA",95585,0,3.8,1,0,0,1,1,0,data engineer,Senior,Exton,40.02985865,-75.62897763847262
+Equativ,"Paris, OR",93967,0,4.6,0,0,0,0,1,0,data engineer,Senior,Paris,48.8588897,2.3200410217200766
+Prestige Financial Services Inc,"Draper, UT",90710,0,3.6,0,0,0,1,0,0,data engineer,mid,Draper,40.5247777,-111.8627989
+Nasscomm,Remote,120000,1,3.7,0,0,1,0,0,0,data engineer,mid,Remote,,
+LogixHealth,"Bedford, MA",110164,0,3.4,0,0,0,0,1,0,data engineer,Senior,Bedford,40.0271453,-78.5237447
+Mican Technologies,"Houston, TX",135000,1,4.3,1,0,0,0,0,0,data engineer,mid,Houston,29.7589382,-95.3676974
+Denken Solution's Inc,"Tarrytown, NY",105000,1,4.4,1,1,0,1,0,0,data engineer,mid,Tarrytown,41.0762077,-73.8587461
+Fannie Mae,"Washington, DC",103335,0,4.0,1,0,0,1,0,0,data engineer,Senior,Washington,38.8950368,-77.0365427
+Clairvoyant,Remote,130000,0,4.2,1,0,0,1,0,0,data engineer,Senior,Remote,,
+Brownells Inc.,"Grinnell, IA",86265,0,3.3,0,0,1,0,0,0,data engineer,Senior,Grinnell,39.12723,-100.629031
+Kairos Technologies Inc,Remote,155000,1,4.4,1,0,0,1,1,1,data engineer,Senior,Remote,,
+Zodiac Solutions,Remote,127500,0,3.7,1,0,0,1,0,0,data engineer,mid,Remote,,
+The Swift Group,"McLean, VA",107055,0,5.0,1,0,0,0,1,0,data engineer,Senior,McLean,40.4631789,-88.8196613
+RCLCO,"Denver, CO",72500,0,4.3,1,0,0,0,1,0,data analyst,Senior,Denver,39.7392364,-104.984862
+Carvana,"Carmel, IN",51672,0,3.0,1,0,0,0,1,0,data engineer,Senior,Carmel,39.9784186,-86.1283681
+Medidata Solutions,"New York, NY",171289,0,4.3,1,0,0,1,0,0,data engineer,Senior,New York,40.7127281,-74.0060152
+Precision Castparts Corp.,Remote,85000,0,3.2,1,0,1,1,0,1,data engineer,junior,Remote,,
+Cushman & Wakefield,"Chicago, IL",94974,0,3.7,0,0,1,0,0,0,data engineer,Senior,Chicago,41.8755616,-87.6244212
+Arcfield,"Reston, VA",112436,0,4.5,1,0,0,1,0,1,data engineer,Senior,Reston,38.9530559,-77.35021396591173
+etrailer.com,Remote,140000,0,3.8,1,0,1,0,0,1,data scientist,Senior,Remote,,
+CUNA Mutual Group,Wisconsin,125350,0,4.1,1,0,1,0,0,1,data engineer,Senior,Wisconsin,44.4308975,-89.6884637
+"AGM Tech Solutions, INC","Alpharetta, GA",163000,1,4.8,1,1,1,1,1,0,data engineer,mid,Alpharetta,34.0709576,-84.2747329
+Sai Infotech,"Charlotte, NC",94580,1,3.4,0,0,0,0,0,0,data engineer,mid,Charlotte,35.2272086,-80.8430827
+Sunera Technologies,Remote,162100,1,3.9,0,1,0,1,0,0,data engineer,Senior,Remote,,
+SPINX Digital,Remote,110000,1,3.3,1,0,0,0,0,0,data engineer,Senior,Remote,,
+Procter & Gamble,"Cincinnati, OH",101571,0,4.2,1,0,1,0,0,0,data engineer,Senior,Cincinnati,39.1014537,-84.5124602
+1904labs,"Saint Louis, MO",64380,0,4.8,1,1,1,1,0,0,data engineer,Senior,Saint Louis,38.6280278,-90.1910154
+Logistics Management Institute,"Tampa, FL",92430,0,4.3,1,0,1,1,0,1,data engineer,junior,Tampa,27.9477595,-82.458444
+Delta,"Atlanta, GA",108168,0,4.3,1,1,0,0,1,1,data engineer,Senior,Atlanta,33.7489924,-84.3902644
+Afia Inc.,"Ann Arbor, MI",72604,0,4.3,0,0,1,0,0,0,data engineer,junior,Ann Arbor,42.2813722,-83.7484616
+Open Road Media,"New York, NY",65000,0,4.0,1,1,0,0,0,0,data engineer,junior,New York,40.7127281,-74.0060152
+Barclays,"Whippany, NJ",105696,0,4.0,1,1,0,0,1,1,data engineer,Senior,Whippany,40.8245442,-74.4170972
+etrailer.com,Remote,140000,0,3.8,1,0,1,0,0,1,data scientist,Senior,Remote,,
+Sunera Technologies,Remote,162100,1,3.9,0,1,0,1,0,0,data engineer,Senior,Remote,,
+SPINX Digital,Remote,110000,1,3.3,1,0,0,0,0,0,data engineer,Senior,Remote,,
+Delta,"Atlanta, GA",108168,0,4.3,1,1,0,0,1,1,data engineer,Senior,Atlanta,33.7489924,-84.3902644
+Xiartech,Remote,130000,0,3.3,1,1,0,1,0,0,data engineer,mid,Remote,,
+Apexon,Remote,150000,1,4.1,1,0,0,0,0,0,data engineer,Senior,Remote,,
+Activision,"Santa Monica, CA",143877,0,3.5,1,0,1,1,0,0,data engineer,Senior,Santa Monica,34.0194704,-118.491227
+BOEING,"Seal Beach, CA",81446,0,3.8,1,0,0,0,1,1,data engineer,junior,Seal Beach,33.7423967,-118.1055926
+Liberty Source,"Hampton, VA",90526,0,3.0,1,0,0,1,0,1,data engineer,Senior,Hampton,37.0264414,-76.3442846
+Education Analytics,Remote,105000,0,4.5,1,0,0,1,0,0,data engineer,Senior,Remote,,
+Devcare Solutions Ltd,"Trenton, NJ",145000,1,3.7,1,1,0,1,0,0,data engineer,mid,Trenton,40.2203074,-74.7659
+Viasat,Arizona,173475,0,4.2,1,1,1,1,0,0,data engineer,mid,Arizona,34.395342,-111.763275
+Kaygen Inc.,Remote,115000,1,4.3,1,0,0,0,0,0,data engineer,mid,Remote,,
+Boom Entertainment,United States,117500,0,4.4,1,0,0,0,0,0,data engineer,Senior,United States,39.7837304,-100.445882
+Medline Industries Inc,"Chicago, IL",104126,0,3.6,1,0,1,0,0,1,data engineer,Senior,Chicago,41.8755616,-87.6244212
+Mastechdigital,"Pittsburgh, PA",115000,1,3.9,0,0,0,0,0,0,data engineer,mid,Pittsburgh,40.4416941,-79.9900861
+HP,"Spring, TX",95911,0,4.2,0,0,0,0,1,0,data engineer,Senior,Spring,30.0795707,-95.4187924
+Bose,"Framingham, MA",91998,0,3.8,1,0,0,1,0,0,data engineer,junior,Framingham,42.2773177,-71.4165905
+CloudRay Inc,"San Francisco, CA",142932,0,4.7,1,0,0,0,0,0,data engineer,Senior,San Francisco,37.7792588,-122.4193286
+TekwissenLLc,Remote,120000,1,4.4,0,0,0,0,0,0,data engineer,Senior,Remote,,
+TikTok,"Seattle, WA",223775,0,3.6,0,1,0,0,0,0,data engineer,Senior,Seattle,47.6038321,-122.330062
+FutureFit AI,"Ontario, CA",131861,0,5.0,1,0,0,0,1,1,data engineer,Senior,Ontario,50.000678,-86.000977
+Volto Consulting,Remote,105000,1,5.0,0,0,0,1,0,0,data engineer,mid,Remote,,
+Amiga Informatics Pvt. Ltd,Remote,137324,0,4.1,0,0,0,0,0,0,data engineer,Senior,Remote,,
+Tekcogno,Remote,101936,0,4.5,1,0,0,1,1,0,data engineer,mid,Remote,,
+Resideo,"Austin, TX",92625,0,3.9,1,1,1,1,1,1,data engineer,junior,Austin,30.2711286,-97.7436995
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+John Deere,"Moline, IL",104647,0,4.1,1,0,0,1,1,0,data engineer,mid,Moline,41.5058344,-90.5136642
+BlastPoint,Remote,140000,0,5.0,1,1,0,1,1,1,data engineer,Senior,Remote,,
+"University of California, Davis","Davis, CA",61680,1,4.3,0,0,0,0,1,0,data engineer,mid,Davis,40.7474784,-92.3965311
+Akraya Inc.,"Mountain View, CA",157000,1,4.9,1,0,0,1,0,0,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Excelgens,Remote,85000,1,4.7,1,0,0,0,0,0,data engineer,mid,Remote,,
+HP,"Spring, TX",95911,0,4.2,0,0,0,0,1,0,data engineer,Senior,Spring,30.0795707,-95.4187924
+Bose,"Framingham, MA",91998,0,3.8,1,0,0,1,0,0,data engineer,junior,Framingham,42.2773177,-71.4165905
+CloudRay Inc,"San Francisco, CA",142932,0,4.7,1,0,0,0,0,0,data engineer,Senior,San Francisco,37.7792588,-122.4193286
+TekwissenLLc,Remote,120000,1,4.4,0,0,0,0,0,0,data engineer,Senior,Remote,,
+TikTok,"Seattle, WA",223775,0,3.6,0,1,0,0,0,0,data engineer,Senior,Seattle,47.6038321,-122.330062
+FutureFit AI,"Ontario, CA",131861,0,5.0,1,0,0,0,1,1,data engineer,Senior,Ontario,50.000678,-86.000977
+Volto Consulting,Remote,105000,1,5.0,0,0,0,1,0,0,data engineer,mid,Remote,,
+Amiga Informatics Pvt. Ltd,Remote,137324,0,4.1,0,0,0,0,0,0,data engineer,Senior,Remote,,
+Tekcogno,Remote,101936,0,4.5,1,0,0,1,1,0,data engineer,mid,Remote,,
+Resideo,"Austin, TX",92625,0,3.9,1,1,1,1,1,1,data engineer,junior,Austin,30.2711286,-97.7436995
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+John Deere,"Moline, IL",104647,0,4.1,1,0,0,1,1,0,data engineer,mid,Moline,41.5058344,-90.5136642
+BlastPoint,Remote,140000,0,5.0,1,1,0,1,1,1,data engineer,Senior,Remote,,
+"University of California, Davis","Davis, CA",61680,1,4.3,0,0,0,0,1,0,data engineer,mid,Davis,40.7474784,-92.3965311
+Akraya Inc.,"Mountain View, CA",157000,1,4.9,1,0,0,1,0,0,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Excelgens,Remote,85000,1,4.7,1,0,0,0,0,0,data engineer,mid,Remote,,
+HP,"Spring, TX",95911,0,4.2,0,0,0,0,1,0,data engineer,Senior,Spring,30.0795707,-95.4187924
+Bose,"Framingham, MA",91998,0,3.8,1,0,0,1,0,0,data engineer,junior,Framingham,42.2773177,-71.4165905
+CloudRay Inc,"San Francisco, CA",142932,0,4.7,1,0,0,0,0,0,data engineer,Senior,San Francisco,37.7792588,-122.4193286
+TekwissenLLc,Remote,120000,1,4.4,0,0,0,0,0,0,data engineer,Senior,Remote,,
+TikTok,"Seattle, WA",223775,0,3.6,0,1,0,0,0,0,data engineer,Senior,Seattle,47.6038321,-122.330062
+FutureFit AI,"Ontario, CA",131861,0,5.0,1,0,0,0,1,1,data engineer,Senior,Ontario,50.000678,-86.000977
+Volto Consulting,Remote,105000,1,5.0,0,0,0,1,0,0,data engineer,mid,Remote,,
+Amiga Informatics Pvt. Ltd,Remote,137324,0,4.1,0,0,0,0,0,0,data engineer,Senior,Remote,,
+Tekcogno,Remote,101936,0,4.5,1,0,0,1,1,0,data engineer,mid,Remote,,
+Resideo,"Austin, TX",92625,0,3.9,1,1,1,1,1,1,data engineer,junior,Austin,30.2711286,-97.7436995
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+John Deere,"Moline, IL",104647,0,4.1,1,0,0,1,1,0,data engineer,mid,Moline,41.5058344,-90.5136642
+BlastPoint,Remote,140000,0,5.0,1,1,0,1,1,1,data engineer,Senior,Remote,,
+"University of California, Davis","Davis, CA",61680,1,4.3,0,0,0,0,1,0,data engineer,mid,Davis,40.7474784,-92.3965311
+Akraya Inc.,"Mountain View, CA",157000,1,4.9,1,0,0,1,0,0,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Excelgens,Remote,85000,1,4.7,1,0,0,0,0,0,data engineer,mid,Remote,,
+MCG Health,United States,135800,0,4.6,1,1,1,1,0,0,data engineer,Senior,United States,39.7837304,-100.445882
+HP,"Spring, TX",95911,0,4.2,0,0,0,0,1,0,data engineer,Senior,Spring,30.0795707,-95.4187924
+Bose,"Framingham, MA",91998,0,3.8,1,0,0,1,0,0,data engineer,junior,Framingham,42.2773177,-71.4165905
+CloudRay Inc,"San Francisco, CA",142932,0,4.7,1,0,0,0,0,0,data engineer,Senior,San Francisco,37.7792588,-122.4193286
+TekwissenLLc,Remote,120000,1,4.4,0,0,0,0,0,0,data engineer,Senior,Remote,,
+TikTok,"Seattle, WA",223775,0,3.6,0,1,0,0,0,0,data engineer,Senior,Seattle,47.6038321,-122.330062
+FutureFit AI,"Ontario, CA",131861,0,5.0,1,0,0,0,1,1,data engineer,Senior,Ontario,50.000678,-86.000977
+Volto Consulting,Remote,105000,1,5.0,0,0,0,1,0,0,data engineer,mid,Remote,,
+Amiga Informatics Pvt. Ltd,Remote,137324,0,4.1,0,0,0,0,0,0,data engineer,Senior,Remote,,
+Tekcogno,Remote,101936,0,4.5,1,0,0,1,1,0,data engineer,mid,Remote,,
+Resideo,"Austin, TX",92625,0,3.9,1,1,1,1,1,1,data engineer,junior,Austin,30.2711286,-97.7436995
+Braintrust,Remote,170000,1,4.6,1,0,1,0,0,0,data engineer,Senior,Remote,,
+John Deere,"Moline, IL",104647,0,4.1,1,0,0,1,1,0,data engineer,mid,Moline,41.5058344,-90.5136642
+BlastPoint,Remote,140000,0,5.0,1,1,0,1,1,1,data engineer,Senior,Remote,,
+"University of California, Davis","Davis, CA",61680,1,4.3,0,0,0,0,1,0,data engineer,mid,Davis,40.7474784,-92.3965311
+Akraya Inc.,"Mountain View, CA",157000,1,4.9,1,0,0,1,0,0,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Excelgens,Remote,85000,1,4.7,1,0,0,0,0,0,data engineer,mid,Remote,,
+MCG Health,United States,135800,0,4.6,1,1,1,1,0,0,data engineer,Senior,United States,39.7837304,-100.445882
+Deloitte,"Lake Mary, FL",65004,0,4.0,1,0,0,0,1,1,data analyst,Senior,Lake Mary,28.7562749,-81.322093
+North Carolina State University,"Chapel Hill, NC",115000,1,4.3,0,0,0,0,0,0,data analyst,Senior,Chapel Hill,35.9131542,-79.05578
+Arizona State University,"Scottsdale, AZ",56820,1,4.2,1,0,1,1,1,0,data analyst,Senior,Scottsdale,33.4942189,-111.926018
+"Altec Industries, Inc.","Saint Joseph, MO",46621,0,3.9,0,0,0,0,0,0,data analyst,Senior,Saint Joseph,39.7686055,-94.8466322
+DataEdge Usa,Remote,125000,1,4.4,0,0,0,0,1,0,data analyst,mid,Remote,,
+The University of Chicago,"Chicago, IL",70125,0,4.2,0,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+Boqueria,"New York, NY",82500,0,3.9,1,0,0,0,1,0,data analyst,mid,New York,40.7127281,-74.0060152
+Wambi,"Philadelphia, PA",69440,0,4.8,0,0,0,0,1,0,data analyst,Senior,Philadelphia,39.9527237,-75.1635262
+OhioHealth,"Columbus, OH",72374,0,3.7,0,0,0,0,1,0,data analyst,junior,Columbus,39.9622601,-83.0007065
+Barclays,"Whippany, NJ",98849,0,4.0,0,0,0,0,1,0,data analyst,Senior,Whippany,40.8245442,-74.4170972
+Booz Allen Hamilton,"Rome, NY",45000,1,4.2,1,0,0,0,0,1,data analyst,mid,Rome,41.8933203,12.4829321
+Fabletics,California,86650,0,4.3,0,0,0,0,0,0,data analyst,Senior,California,36.7014631,-118.755997
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+Crumbl Cookies,"Lindon, UT",57839,0,4.6,1,0,0,0,1,0,data analyst,Senior,Lindon,40.3432857,-111.72076
+Trident United Way,"North Charleston, SC",56139,0,3.8,0,0,0,0,1,0,data analyst,Senior,North Charleston,32.8546197,-79.9748103
+PPG Industries,"Cheswick, PA",59627,0,3.4,0,0,0,0,1,0,data analyst,Senior,Cheswick,40.5432898,-79.8017084
+ST genetics,"Middleton, WI",50692,0,3.4,1,0,0,0,1,0,data analyst,junior,Middleton,43.0962919,-89.5119565
+I28 Technologies,"Marysville, MI",57500,0,4.2,0,0,0,0,0,0,data analyst,junior,Marysville,48.0517429,-122.1768209
+Crox Consulting,"Reston, VA",120000,1,3.9,0,0,0,0,1,0,data analyst,junior,Reston,38.9530559,-77.35021396591173
+Numero Data,"Herndon, VA",80000,1,3.9,0,0,0,0,1,0,data analyst,Senior,Herndon,39.909726,-100.785153
+DevCare Solutions Ltd,Remote,75460,1,3.7,0,0,1,0,0,0,data analyst,mid,Remote,,
+ITTrail Blazers,Manhattan,58000,1,3.8,1,0,0,0,0,0,data analyst,mid,Manhattan,40.7896239,-73.9598939
+PURPOSE HOME HEALTH,"Park Ridge, IL",66785,0,2.8,1,0,1,0,1,0,data analyst,mid,Park Ridge,42.0112329,-87.8406031
+Kani Solutions,"Jersey City, NJ",67000,1,4.7,0,0,0,0,1,0,data analyst,junior,Jersey City,40.7215682,-74.047455
+Della InfoTech Inc,Remote,144000,1,3.9,0,0,0,0,1,0,data analyst,Senior,Remote,,
+Globus Medical,"Audubon, PA",55278,0,3.4,0,0,0,1,1,0,data analyst,mid,Audubon,41.670205,-94.9106526
+DHL | Supply Chain,"Livonia, MI",70840,0,3.8,0,0,0,0,1,0,data analyst,Senior,Livonia,42.36837,-83.3527097
+Microchip Technology,"Chandler, AZ",81335,0,4.0,1,0,0,0,1,0,data analyst,Senior,Chandler,33.3062031,-111.841185
+Abbott Laboratories,"Columbus, OH",75726,0,3.8,1,0,0,0,1,0,data analyst,Senior,Columbus,39.9622601,-83.0007065
+Fisher & Phillips LLP,New York State,85100,1,3.7,0,0,0,1,1,0,data analyst,Senior,New York State,43.1561681,-75.8449946
+Big Fish Games,"Las Vegas, NV",69078,0,3.7,1,0,0,0,1,0,data analyst,Senior,Las Vegas,36.1672559,-115.148516
+WINESHIPPING COM LLC,"Napa, CA",63954,0,3.8,0,0,0,0,1,0,data analyst,Senior,Napa,38.2971367,-122.2855293
+NES Fircroft,"Houston, TX",43000,1,4.2,0,0,0,0,1,0,data analyst,junior,Houston,29.7589382,-95.3676974
+Massachusetts General Hospital(MGH),"Cambridge, MA",60458,0,4.0,1,0,0,0,0,0,data analyst,Senior,Cambridge,52.2055314,0.1186637
+D.A. Davidson Companies,"Salt Lake City, UT",88210,0,3.6,0,0,0,0,1,0,data analyst,Senior,Salt Lake City,40.7596198,-111.886797
+Emory University,"Atlanta, GA",65797,0,4.2,0,0,0,0,1,0,data analyst,Senior,Atlanta,33.7489924,-84.3902644
+CSU Fullerton Auxiliary Services,"Fullerton, CA",41000,1,3.6,0,0,0,0,1,0,data analyst,mid,Fullerton,33.8708215,-117.929416
+Creatura Consulting,Remote,120000,1,5.0,0,0,0,0,0,0,data analyst,Senior,Remote,,
+Phoenix Loss Control,Remote,100000,0,3.6,0,0,0,0,1,0,data analyst,mid,Remote,,
+"BEN Group, Inc","Los Angeles, CA",67918,0,3.5,1,0,0,0,1,0,data analyst,Senior,Los Angeles,34.0536909,-118.242766
+CODEFORCE 360,"Charlotte, NC",125000,1,3.7,0,0,0,0,0,0,data analyst,mid,Charlotte,35.2272086,-80.8430827
+Trinidad Benham,Remote,60000,0,3.9,0,0,0,0,1,0,data analyst,Senior,Remote,,
+Akraya Inc.,"San Bruno, CA",105000,1,4.9,0,0,0,0,0,0,data analyst,Senior,San Bruno,37.6248536,-122.4145986
+Northwell Health,"Lake Success, NY",68900,0,4.0,0,0,0,0,0,0,data analyst,mid,Lake Success,40.7706572,-73.7176312
+NASDAQ,New York State,62550,0,4.1,0,0,0,0,1,0,data analyst,Senior,New York State,43.1561681,-75.8449946
+"CGI Group, Inc.","Austin, TX",63331,0,3.9,1,0,0,0,0,1,data analyst,junior,Austin,30.2711286,-97.7436995
+"Tarrant County, TX","Tarrant, TX",5162,0,3.6,0,0,0,0,0,0,data analyst,junior,Tarrant,32.7513658,-97.335696
+"TQI Solutions, Inc.","Norfolk, VA",64608,0,4.4,1,0,0,0,1,0,data analyst,Senior,Norfolk,52.666667,1.0
+Dhar Mann Studios,"Burbank, CA",80000,1,4.4,0,0,0,0,0,0,data analyst,Senior,Burbank,34.1812089,-118.307201
+RCLCO,"Denver, CO",72500,0,4.3,1,0,0,0,1,0,data analyst,Senior,Denver,39.7392364,-104.984862
+MillerKnoll,Remote,58475,0,3.3,0,0,0,0,0,0,data analyst,junior,Remote,,
+PCS GLOBAL TECH,"Chicago, IL",70000,0,4.7,0,0,0,0,1,0,data analyst,junior,Chicago,41.8755616,-87.6244212
+Saela,"Orem, UT",70000,0,4.4,1,0,0,0,1,0,data analyst,mid,Orem,40.2981599,-111.6944313
+Akraya Inc.,"Mountain View, CA",177000,1,4.9,1,0,0,0,0,0,data analyst,Senior,Mountain View,37.3893889,-122.0832101
+BioMarin Pharmaceutical Inc.,Remote,81000,1,4.1,0,0,0,0,1,0,data analyst,junior,Remote,,
+State of Tennessee,"Nashville, TN",6383,0,3.5,1,0,0,1,1,0,data analyst,Senior,Nashville,36.1622767,-86.7742984
+HP,"Spring, TX",90149,0,4.2,0,0,0,0,1,0,data analyst,Senior,Spring,30.0795707,-95.4187924
+Zillion Technologies,Remote,93000,1,3.8,1,0,0,0,0,0,data analyst,junior,Remote,,
+corbion,"Lenexa, KS",61695,0,3.6,0,0,0,0,1,0,data analyst,Senior,Lenexa,38.9697458,-94.7845837
+Munich Re America,"New York, NY",71122,0,4.3,0,0,0,0,1,0,data analyst,Senior,New York,40.7127281,-74.0060152
+DRB,"Meridian, ID",56311,0,3.6,1,0,0,0,1,0,data analyst,Senior,Meridian,32.3643098,-88.703656
+UC San Diego,"San Diego, CA",67800,0,4.2,1,0,0,0,1,0,data analyst,Senior,San Diego,32.7174202,-117.162772
+TechnologyAdvice,"Nashville, TN",57851,0,4.5,1,0,0,0,1,0,data analyst,junior,Nashville,36.1622767,-86.7742984
+AirPro Diagnostics/Nationwide Parts,"Jacksonville, FL",67038,0,3.3,1,0,0,0,1,0,data analyst,Senior,Jacksonville,30.3321838,-81.655651
+LPL Financial,South Carolina,92000,0,3.9,0,0,0,0,1,0,data analyst,Senior,South Carolina,33.6874388,-80.4363743
+"Atmosfy, Inc",Remote,75000,0,3.9,0,0,0,1,1,0,data analyst,Senior,Remote,,
+TogetherHealth,"Tampa, FL",61551,0,3.1,0,0,0,1,0,0,data analyst,Senior,Tampa,27.9477595,-82.458444
+Robinhood,"Denver, CO",93000,0,3.6,1,0,0,0,1,0,data analyst,Senior,Denver,39.7392364,-104.984862
+PEN AIR CREDIT UNION,"Pensacola, FL",82500,0,3.5,0,0,0,0,0,0,data analyst,Senior,Pensacola,30.421309,-87.2169149
+Kiss Products,"Port Washington, NY",62656,0,2.7,1,0,0,0,1,0,data analyst,junior,Port Washington,40.8257072,-73.6958069
+T-Cetra LLC,"Dublin, OH",65530,0,3.6,0,0,0,0,1,0,data analyst,mid,Dublin,53.3493795,-6.2605593
+Elevate Sports Ventures,"Charlotte, NC",61822,0,3.9,0,0,0,0,1,0,data analyst,junior,Charlotte,35.2272086,-80.8430827
+Sounds True,"Louisville, CO",72500,0,3.1,0,0,0,0,1,0,data analyst,Senior,Louisville,38.2542376,-85.759407
+U-Haul,"Tempe, AZ",64075,0,3.4,0,0,0,0,1,0,data analyst,mid,Tempe,33.4255117,-111.940016
+Alliance Laundry Systems LLC,"Ripon, WI",52625,0,2.9,0,0,0,0,0,0,data analyst,Senior,Ripon,54.1362169,-1.5238006
+BCVS Group Inc,Remote,60000,1,5.0,1,0,0,0,1,0,data analyst,mid,Remote,,
+Volto Consulting,"Sunnyvale, CA",78000,1,5.0,1,0,0,0,0,0,data analyst,mid,Sunnyvale,37.3688301,-122.036349
+nLeague Services Inc.,"Boise, ID",81100,1,3.8,1,0,0,0,0,0,data analyst,junior,Boise,43.6166163,-116.200886
+Robinhood,"Denver, CO",93000,0,3.6,1,0,0,0,1,0,data analyst,Senior,Denver,39.7392364,-104.984862
+University of Washington,"Seattle, WA",5973,0,4.2,1,0,0,0,0,0,data analyst,Senior,Seattle,47.6038321,-122.330062
+"US News & World Report ,L.P.","Washington, DC",65776,0,3.9,0,0,0,0,0,0,data analyst,Senior,Washington,38.8950368,-77.0365427
+Bayer,"Creve Coeur, MO",70879,0,4.2,0,0,0,0,1,0,data analyst,Senior,Creve Coeur,38.6613007,-90.4423653
+Tarrant County Homeless Coalition,"Tarrant City, AL",53877,0,3.3,0,0,0,0,0,0,data analyst,junior,Tarrant City,33.5834373,-86.7727681
+Coahoma Community College,"Clarksdale, MS",46739,0,4.0,1,0,0,0,1,0,data analyst,Senior,Clarksdale,34.2006479,-90.5702071
+Horace Mann,"Springfield, IL",67882,0,3.6,0,0,0,0,1,0,data analyst,Senior,Springfield,39.7990175,-89.6439575
+HealthFirst,"New York, NY",86446,0,3.6,0,0,0,0,0,0,data analyst,Senior,New York,40.7127281,-74.0060152
+Dutech System,"Austin, TX",125000,1,4.5,0,0,1,0,0,0,data analyst,Senior,Austin,30.2711286,-97.7436995
+McDermott+Consulting,"Boston, MA",82132,0,3.7,0,0,0,0,1,0,data analyst,Senior,Boston,42.3554334,-71.060511
+"Odyssey Systems Consulting Group, Ltd.","Bethesda, MD",80867,0,4.3,1,0,0,0,0,0,data analyst,mid,Bethesda,38.9846816,-77.0942447
+Braintrust,"San Francisco, CA",270000,1,4.6,0,0,0,0,1,0,data analyst,Senior,San Francisco,37.7792588,-122.4193286
+Eastridge,"Texas City, TX",97500,0,4.5,1,0,0,1,0,0,data analyst,mid,Texas City,29.396013,-94.9175485
+Concept Software & Services Inc,Remote,130000,1,4.2,0,0,0,0,0,0,data analyst,mid,Remote,,
+International Center for Language Studies,"Arlington, VA",61917,0,4.3,0,0,0,0,0,0,data analyst,Senior,Arlington,32.7355816,-97.1071186
+CASES,"Brooklyn, NY",52000,0,2.6,0,0,0,0,1,0,data analyst,Senior,Brooklyn,40.6526006,-73.9497211
+D3 AIR AND SPACE OPERATIONS INC,"Langley AFB, VA",71583,0,4.3,0,0,0,0,0,0,data analyst,Senior,Langley AFB,37.08751425,-76.35722238652752
+Premier Truck Rental,"Fort Wayne, IN",58056,0,3.6,0,0,0,0,0,0,data analyst,mid,Fort Wayne,41.0799898,-85.1386015
+Staffing Solutions Organization LLC (SSO),"Albany, NY",68617,0,4.4,1,0,0,0,1,0,data analyst,mid,Albany,42.6511674,-73.754968
+Dew Software,Remote,120000,1,3.6,0,0,0,0,1,0,data analyst,mid,Remote,,
+Wolfe Eye Clinic,"Marshalltown, IA",52032,0,3.4,1,0,0,0,1,0,data analyst,mid,Marshalltown,42.048881,-92.9122672
+Axle Informatics,"Bethesda, MD",76720,0,3.9,0,0,0,0,0,0,data analyst,Senior,Bethesda,38.9846816,-77.0942447
+Arcadis,"Long Island City, NY",101500,0,4.0,0,0,0,0,1,0,data analyst,mid,Long Island City,40.7455316,-73.9484995
+UC San Diego,"San Diego, CA",53640,1,4.2,0,0,0,0,0,0,data analyst,mid,San Diego,32.7174202,-117.162772
+PCS GLOBAL TECH,"Ithaca, NY",77339,0,4.7,0,0,0,0,1,0,data analyst,mid,Ithaca,42.4374175,-76.54837235139263
+"CGI Group, Inc.","Washington, DC",68871,0,3.9,1,0,0,0,1,0,data analyst,junior,Washington,38.8950368,-77.0365427
+Realign LLC,"Atlanta, GA",39855,0,4.5,0,0,0,0,1,0,data analyst,junior,Atlanta,33.7489924,-84.3902644
+North Shore Bank,"Brookfield, WI",63211,0,3.6,0,0,0,0,1,0,data analyst,Senior,Brookfield,43.0578479,-88.1261984
+Procal Technologies,Remote,60000,0,1.0,1,0,0,0,1,0,data analyst,mid,Remote,,
+Obie,"Chicago, IL",72658,0,4.9,1,0,0,1,0,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+Geneva Management,"Reston, VA",26000,1,3.0,0,0,0,0,1,0,data analyst,junior,Reston,38.9530559,-77.35021396591173
+Royal Communications Consultants Inc,"New York, NY",86500,0,3.7,0,0,0,0,0,0,data analyst,Senior,New York,40.7127281,-74.0060152
+Market Resource Partners,"Philadelphia, PA",58162,0,3.5,1,0,0,0,1,0,data analyst,junior,Philadelphia,39.9527237,-75.1635262
+Kitestring,"Rogers, AR",74844,0,4.8,0,0,0,0,1,0,data analyst,junior,Rogers,36.3330154,-94.1166283
+Schlumberger,"Youngsville, LA",77299,0,4.0,0,0,0,0,0,0,data analyst,Senior,Youngsville,30.0996471,-91.9901206
+S&P Global,"New York, NY",101043,0,4.1,1,0,0,1,1,0,data analyst,Senior,New York,40.7127281,-74.0060152
+HERSHEY MX,"Hershey, PA",56614,0,3.9,0,0,0,0,1,0,data analyst,junior,Hershey,40.2854881,-76.6506001
+Settlement Health,"New York, NY",67500,0,4.5,0,0,0,0,0,0,data analyst,Senior,New York,40.7127281,-74.0060152
+Parallel,"Tampa, FL",50637,0,3.1,0,0,0,0,1,0,data analyst,Senior,Tampa,27.9477595,-82.458444
+Deloitte,"Lake Mary, FL",65004,0,4.0,1,0,0,0,1,1,data analyst,Senior,Lake Mary,28.7562749,-81.322093
+North Carolina State University,"Chapel Hill, NC",115000,1,4.3,0,0,0,0,0,0,data analyst,Senior,Chapel Hill,35.9131542,-79.05578
+Arizona State University,"Scottsdale, AZ",56820,1,4.2,1,0,1,1,1,0,data analyst,Senior,Scottsdale,33.4942189,-111.926018
+"Altec Industries, Inc.","Saint Joseph, MO",46621,0,3.9,0,0,0,0,0,0,data analyst,Senior,Saint Joseph,39.7686055,-94.8466322
+DataEdge Usa,Remote,125000,1,4.4,0,0,0,0,1,0,data analyst,mid,Remote,,
+The University of Chicago,"Chicago, IL",70125,0,4.2,0,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+Boqueria,"New York, NY",82500,0,3.9,1,0,0,0,1,0,data analyst,mid,New York,40.7127281,-74.0060152
+Wambi,"Philadelphia, PA",69440,0,4.8,0,0,0,0,1,0,data analyst,Senior,Philadelphia,39.9527237,-75.1635262
+OhioHealth,"Columbus, OH",72374,0,3.7,0,0,0,0,1,0,data analyst,junior,Columbus,39.9622601,-83.0007065
+Barclays,"Whippany, NJ",98849,0,4.0,0,0,0,0,1,0,data analyst,Senior,Whippany,40.8245442,-74.4170972
+Silent Falcon UAS Technologies,"Front Royal, VA",65148,0,3.6,0,0,0,0,1,0,data analyst,Senior,Front Royal,38.9178538,-78.1917718
+Booz Allen Hamilton,"Rome, NY",45000,1,4.2,1,0,0,0,0,1,data analyst,mid,Rome,41.8933203,12.4829321
+Fabletics,California,86650,0,4.3,0,0,0,0,0,0,data analyst,Senior,California,36.7014631,-118.755997
+Baked By Melissa,"New York, NY",65000,0,3.1,0,0,0,0,1,0,data analyst,junior,New York,40.7127281,-74.0060152
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+Crumbl Cookies,"Lindon, UT",57839,0,4.6,1,0,0,0,1,0,data analyst,Senior,Lindon,40.3432857,-111.72076
+Trident United Way,"North Charleston, SC",56139,0,3.8,0,0,0,0,1,0,data analyst,Senior,North Charleston,32.8546197,-79.9748103
+Hudson Technologies Inc,"Woodcliff Lake, NJ",81136,0,3.2,0,0,0,0,1,0,data analyst,Senior,Woodcliff Lake,41.0234304,-74.0665297
+Deloitte,"Lake Mary, FL",65004,0,4.0,1,0,0,0,1,1,data analyst,Senior,Lake Mary,28.7562749,-81.322093
+North Carolina State University,"Chapel Hill, NC",115000,1,4.3,0,0,0,0,0,0,data analyst,Senior,Chapel Hill,35.9131542,-79.05578
+Arizona State University,"Scottsdale, AZ",56820,1,4.2,1,0,1,1,1,0,data analyst,Senior,Scottsdale,33.4942189,-111.926018
+"Altec Industries, Inc.","Saint Joseph, MO",46621,0,3.9,0,0,0,0,0,0,data analyst,Senior,Saint Joseph,39.7686055,-94.8466322
+DataEdge Usa,Remote,125000,1,4.4,0,0,0,0,1,0,data analyst,mid,Remote,,
+The University of Chicago,"Chicago, IL",70125,0,4.2,0,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+Boqueria,"New York, NY",82500,0,3.9,1,0,0,0,1,0,data analyst,mid,New York,40.7127281,-74.0060152
+Wambi,"Philadelphia, PA",69440,0,4.8,0,0,0,0,1,0,data analyst,Senior,Philadelphia,39.9527237,-75.1635262
+OhioHealth,"Columbus, OH",72374,0,3.7,0,0,0,0,1,0,data analyst,junior,Columbus,39.9622601,-83.0007065
+Barclays,"Whippany, NJ",98849,0,4.0,0,0,0,0,1,0,data analyst,Senior,Whippany,40.8245442,-74.4170972
+Silent Falcon UAS Technologies,"Front Royal, VA",65148,0,3.6,0,0,0,0,1,0,data analyst,Senior,Front Royal,38.9178538,-78.1917718
+Booz Allen Hamilton,"Rome, NY",45000,1,4.2,1,0,0,0,0,1,data analyst,mid,Rome,41.8933203,12.4829321
+Fabletics,California,86650,0,4.3,0,0,0,0,0,0,data analyst,Senior,California,36.7014631,-118.755997
+Baked By Melissa,"New York, NY",65000,0,3.1,0,0,0,0,1,0,data analyst,junior,New York,40.7127281,-74.0060152
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+Crumbl Cookies,"Lindon, UT",57839,0,4.6,1,0,0,0,1,0,data analyst,Senior,Lindon,40.3432857,-111.72076
+Trident United Way,"North Charleston, SC",56139,0,3.8,0,0,0,0,1,0,data analyst,Senior,North Charleston,32.8546197,-79.9748103
+Hudson Technologies Inc,"Woodcliff Lake, NJ",81136,0,3.2,0,0,0,0,1,0,data analyst,Senior,Woodcliff Lake,41.0234304,-74.0665297
+Arizona State University,"Scottsdale, AZ",56820,1,4.2,1,0,1,1,1,0,data analyst,Senior,Scottsdale,33.4942189,-111.926018
+Deloitte,"Lake Mary, FL",65004,0,4.0,1,0,0,0,1,1,data analyst,Senior,Lake Mary,28.7562749,-81.322093
+North Carolina State University,"Chapel Hill, NC",115000,1,4.3,0,0,0,0,0,0,data analyst,Senior,Chapel Hill,35.9131542,-79.05578
+"Altec Industries, Inc.","Saint Joseph, MO",46621,0,3.9,0,0,0,0,0,0,data analyst,Senior,Saint Joseph,39.7686055,-94.8466322
+DataEdge Usa,Remote,125000,1,4.4,0,0,0,0,1,0,data analyst,mid,Remote,,
+The University of Chicago,"Chicago, IL",70125,0,4.2,0,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+Boqueria,"New York, NY",82500,0,3.9,1,0,0,0,1,0,data analyst,mid,New York,40.7127281,-74.0060152
+Wambi,"Philadelphia, PA",69440,0,4.8,0,0,0,0,1,0,data analyst,Senior,Philadelphia,39.9527237,-75.1635262
+OhioHealth,"Columbus, OH",72374,0,3.7,0,0,0,0,1,0,data analyst,junior,Columbus,39.9622601,-83.0007065
+Barclays,"Whippany, NJ",98849,0,4.0,0,0,0,0,1,0,data analyst,Senior,Whippany,40.8245442,-74.4170972
+Silent Falcon UAS Technologies,"Front Royal, VA",65148,0,3.6,0,0,0,0,1,0,data analyst,Senior,Front Royal,38.9178538,-78.1917718
+Booz Allen Hamilton,"Rome, NY",45000,1,4.2,1,0,0,0,0,1,data analyst,mid,Rome,41.8933203,12.4829321
+Fabletics,California,86650,0,4.3,0,0,0,0,0,0,data analyst,Senior,California,36.7014631,-118.755997
+Baked By Melissa,"New York, NY",65000,0,3.1,0,0,0,0,1,0,data analyst,junior,New York,40.7127281,-74.0060152
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+Crumbl Cookies,"Lindon, UT",57839,0,4.6,1,0,0,0,1,0,data analyst,Senior,Lindon,40.3432857,-111.72076
+Trident United Way,"North Charleston, SC",56139,0,3.8,0,0,0,0,1,0,data analyst,Senior,North Charleston,32.8546197,-79.9748103
+Hudson Technologies Inc,"Woodcliff Lake, NJ",81136,0,3.2,0,0,0,0,1,0,data analyst,Senior,Woodcliff Lake,41.0234304,-74.0665297
+Arizona State University,"Scottsdale, AZ",56820,1,4.2,1,0,1,1,1,0,data analyst,Senior,Scottsdale,33.4942189,-111.926018
+Deloitte,"Lake Mary, FL",65004,0,4.0,1,0,0,0,1,1,data analyst,Senior,Lake Mary,28.7562749,-81.322093
+North Carolina State University,"Chapel Hill, NC",115000,1,4.3,0,0,0,0,0,0,data analyst,Senior,Chapel Hill,35.9131542,-79.05578
+"Altec Industries, Inc.","Saint Joseph, MO",46621,0,3.9,0,0,0,0,0,0,data analyst,Senior,Saint Joseph,39.7686055,-94.8466322
+DataEdge Usa,Remote,125000,1,4.4,0,0,0,0,1,0,data analyst,mid,Remote,,
+The University of Chicago,"Chicago, IL",70125,0,4.2,0,0,0,0,1,0,data analyst,Senior,Chicago,41.8755616,-87.6244212
+Boqueria,"New York, NY",82500,0,3.9,1,0,0,0,1,0,data analyst,mid,New York,40.7127281,-74.0060152
+Wambi,"Philadelphia, PA",69440,0,4.8,0,0,0,0,1,0,data analyst,Senior,Philadelphia,39.9527237,-75.1635262
+Barclays,"Whippany, NJ",98849,0,4.0,0,0,0,0,1,0,data analyst,Senior,Whippany,40.8245442,-74.4170972
+Silent Falcon UAS Technologies,"Front Royal, VA",65148,0,3.6,0,0,0,0,1,0,data analyst,Senior,Front Royal,38.9178538,-78.1917718
+Booz Allen Hamilton,"Rome, NY",45000,1,4.2,1,0,0,0,0,1,data analyst,mid,Rome,41.8933203,12.4829321
+Fabletics,California,86650,0,4.3,0,0,0,0,0,0,data analyst,Senior,California,36.7014631,-118.755997
+Baked By Melissa,"New York, NY",65000,0,3.1,0,0,0,0,1,0,data analyst,junior,New York,40.7127281,-74.0060152
+IKEA,"Conshohocken, PA",91258,0,3.7,0,0,0,0,0,0,data analyst,Senior,Conshohocken,40.0792766,-75.3015714
+Crumbl Cookies,"Lindon, UT",57839,0,4.6,1,0,0,0,1,0,data analyst,Senior,Lindon,40.3432857,-111.72076
+Trident United Way,"North Charleston, SC",56139,0,3.8,0,0,0,0,1,0,data analyst,Senior,North Charleston,32.8546197,-79.9748103
+Hudson Technologies Inc,"Woodcliff Lake, NJ",81136,0,3.2,0,0,0,0,1,0,data analyst,Senior,Woodcliff Lake,41.0234304,-74.0665297
+AstraZeneca Pharmaceuticals Inc,"Gaithersburg, MD",73338,0,4.2,0,0,0,0,0,1,machine learning engineer,mid,Gaithersburg,39.1399187,-77.1929215
+Toyota Research Institute,"Los Altos, CA",180900,0,4.3,1,0,0,0,0,1,machine learning engineer,Senior,Los Altos,42.7811566,-3.620209626541331
+MIT Lincoln Laboratory,"Lexington, MA",117724,0,4.3,1,0,0,0,0,1,machine learning engineer,mid,Lexington,38.0464066,-84.4970393
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+MIT Lincoln Laboratory,"Lexington, MA",109104,0,4.3,1,0,0,0,0,1,machine learning engineer,junior,Lexington,38.0464066,-84.4970393
+National Renewable Energy Laboratory,"Golden, CO",91950,0,3.9,1,0,0,1,0,1,machine learning engineer,Senior,Golden,39.7546349,-105.22058
+Pfizer,"Cambridge, MA",133773,0,4.1,1,0,0,1,1,1,machine learning engineer,mid,Cambridge,52.2055314,0.1186637
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Booz Allen Hamilton,"Alexandria, VA",126650,0,4.2,1,0,1,1,0,1,data scientist,Senior,Alexandria,44.83495335,8.745030418605868
+eBay Inc.,"New York, NY",126495,0,4.2,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Amazon.com Services LLC,"Seattle, WA",152000,0,3.8,0,0,0,1,0,1,machine learning engineer,Senior,Seattle,47.6038321,-122.330062
+Argonne National Laboratory,"Lemont, IL",54291,0,4.5,0,0,0,0,0,1,machine learning engineer,Senior,Lemont,41.6737149,-88.0016263
+Bose,"Framingham, MA",133142,0,3.8,1,0,0,0,0,1,machine learning engineer,junior,Framingham,42.2773177,-71.4165905
+Morgan Stanley,"New York, NY",143796,0,4.0,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+CVS Health,Connecticut,135000,0,3.1,1,0,0,1,0,1,machine learning engineer,Senior,Connecticut,41.6500201,-72.7342163
+I28 Technologies,"Marysville, MI",67500,0,4.2,1,0,0,0,0,1,machine learning engineer,junior,Marysville,48.0517429,-122.1768209
+Colossal Biosciences,"Dallas, TX",66609,0,4.8,1,0,0,0,0,1,machine learning engineer,Senior,Dallas,32.7762719,-96.7968559
+Lawrence Livermore National Laboratory,"Livermore, CA",114750,0,4.4,1,0,0,1,0,1,machine learning engineer,Senior,Livermore,37.6820583,-121.768053
+NOKIA,"Murray Hill, NJ",99354,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Murray Hill,38.2903476,-85.5882941
+YouTube,"San Bruno, CA",141704,0,4.3,0,0,0,0,0,1,machine learning engineer,Senior,San Bruno,37.6248536,-122.4145986
+"BEN Group, Inc","Provo, UT",91214,0,3.5,1,0,0,0,1,1,data scientist,Senior,Provo,40.2337289,-111.6587085
+Braintrust,"San Francisco, CA",220000,1,4.6,1,1,0,0,0,1,machine learning engineer,Senior,San Francisco,37.7792588,-122.4193286
+Netflix,"Los Gatos, CA",149100,0,4.3,0,0,0,0,0,1,machine learning engineer,Senior,Los Gatos,37.226611,-121.9746797
+Tesla,"Palo Alto, CA",139446,0,3.6,1,0,0,0,0,1,machine learning engineer,mid,Palo Alto,37.4443293,-122.1598465
+Microsoft,"New York, NY",138450,0,4.4,0,0,0,1,0,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Analog Devices,"Boston, MA",126627,0,4.1,0,0,0,0,0,1,machine learning engineer,Senior,Boston,42.3554334,-71.060511
+Dianthus,"Boston, MA",137376,0,3.3,1,0,0,1,0,1,machine learning engineer,Senior,Boston,42.3554334,-71.060511
+Expedition Technology Inc,"Washington, VA",98636,0,4.8,1,0,0,1,0,1,machine learning engineer,Senior,Washington,38.8950368,-77.0365427
+Argonne National Laboratory,"Lemont, IL",88155,0,4.5,1,0,0,0,0,1,machine learning engineer,mid,Lemont,41.6737149,-88.0016263
+Etsy,"Brooklyn, NY",213000,0,4.5,1,1,0,0,0,1,machine learning engineer,Senior,Brooklyn,40.6526006,-73.9497211
+Moderna Therapeutics,"Cambridge, MA",128826,0,3.7,1,0,0,1,1,1,machine learning engineer,Senior,Cambridge,52.2055314,0.1186637
+Broad Institute,"Cambridge, MA",65916,0,4.4,1,0,0,0,1,1,machine learning engineer,Senior,Cambridge,52.2055314,0.1186637
+Mobica,"Myrtle Point, OR",104289,0,3.9,1,1,0,0,0,1,machine learning engineer,Senior,Myrtle Point,43.0635936,-124.1392815
+NXP Semiconductors,"Austin, TX",125047,0,4.0,0,0,0,0,0,0,machine learning engineer,junior,Austin,30.2711286,-97.7436995
+Booz Allen Hamilton,"Doral, FL",105577,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Doral,25.8184725,-80.35396791309786
+Expedition Technology Inc,"Washington, VA",98636,0,4.8,1,0,0,1,0,1,machine learning engineer,Senior,Washington,38.8950368,-77.0365427
+Etsy,"Brooklyn, NY",213000,0,4.5,1,1,0,0,0,1,machine learning engineer,Senior,Brooklyn,40.6526006,-73.9497211
+Mobica,"Myrtle Point, OR",104289,0,3.9,1,1,0,0,0,1,machine learning engineer,Senior,Myrtle Point,43.0635936,-124.1392815
+NXP Semiconductors,"Austin, TX",125047,0,4.0,0,0,0,0,0,0,machine learning engineer,junior,Austin,30.2711286,-97.7436995
+Booz Allen Hamilton,"Doral, FL",105577,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Doral,25.8184725,-80.35396791309786
+Diffbot,"Menlo Park, CA",134737,0,4.7,0,0,0,0,0,1,machine learning engineer,Senior,Menlo Park,37.4519671,-122.177992
+McDonald's Corporation,"Chicago, IL",114412,0,3.5,1,0,0,1,1,1,machine learning engineer,Senior,Chicago,41.8755616,-87.6244212
+MIT Lincoln Laboratory,"Lexington, MA",107092,0,4.3,1,0,0,1,1,1,machine learning engineer,mid,Lexington,38.0464066,-84.4970393
+Datatron Technologies,Remote,157500,0,4.3,1,0,1,1,0,1,machine learning engineer,mid,Remote,,
+Deloitte,"Rosslyn, VA",120277,0,4.0,1,1,0,0,0,1,data scientist,Senior,Rosslyn,53.5957289,-113.505291
+Brookhaven National Laboratory,"Upton, NY",69910,0,3.6,1,0,0,0,1,1,machine learning engineer,junior,Upton,31.3720387,-102.0386055
+Genmab,"Princeton, NJ",141906,0,4.0,1,0,0,0,1,1,machine learning engineer,Senior,Princeton,40.3496953,-74.6597376
+Saildrone,"Alameda, CA",160000,0,3.5,1,0,0,0,1,1,machine learning engineer,Senior,Alameda,37.6090291,-121.899142
+Bloomberg,"New York, NY",205000,0,4.1,1,1,0,0,0,1,data scientist,mid,New York,40.7127281,-74.0060152
+Deloitte,"Rosslyn, VA",120277,0,4.0,1,1,0,0,0,1,data scientist,Senior,Rosslyn,53.5957289,-113.505291
+Genmab,"Princeton, NJ",141906,0,4.0,1,0,0,0,1,1,machine learning engineer,Senior,Princeton,40.3496953,-74.6597376
+Bloomberg,"New York, NY",205000,0,4.1,1,1,0,0,0,1,data scientist,mid,New York,40.7127281,-74.0060152
+California State University,"San Francisco, CA",6000,0,4.1,0,0,0,0,0,1,machine learning engineer,Senior,San Francisco,37.7792588,-122.4193286
+Anduril Industries,"Costa Mesa, CA",44000,1,4.7,0,0,0,0,0,1,machine learning engineer,mid,Costa Mesa,33.6633386,-117.903317
+Viasat,"Carlsbad, CA",194350,0,4.2,1,1,0,0,0,1,machine learning engineer,Senior,Carlsbad,33.1580933,-117.3505966
+HP,"Palo Alto, CA",127000,0,4.2,1,1,0,1,1,1,machine learning engineer,Senior,Palo Alto,37.4443293,-122.1598465
+Allen Institute,"Seattle, WA",88027,0,3.7,1,0,0,0,0,1,data engineer,junior,Seattle,47.6038321,-122.330062
+Xcelerate Solutions,"Bethesda, MD",104582,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Bethesda,38.9846816,-77.0942447
+Brookhaven National Laboratory,"Upton, NY",78739,0,3.6,1,0,0,0,1,1,machine learning engineer,junior,Upton,31.3720387,-102.0386055
+Altfest Personal Wealth Management,"New York, NY",45000,1,4.8,0,0,0,0,0,1,machine learning engineer,mid,New York,40.7127281,-74.0060152
+"Lynntech, Inc.","College Station, TX",91174,0,3.5,1,0,0,0,0,1,machine learning engineer,mid,College Station,30.6183939,-96.3455991
+Booz Allen Hamilton,"Rome, NY",45000,1,4.2,1,0,0,0,0,1,data analyst,mid,Rome,41.8933203,12.4829321
+Lululemon,"Seattle, WA",152850,0,4.3,1,1,1,0,0,1,machine learning engineer,Senior,Seattle,47.6038321,-122.330062
+Eight Sleep,"New York, NY",137055,0,4.3,1,0,0,0,1,0,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Emory University,"Atlanta, GA",91428,0,4.2,0,0,0,0,1,1,machine learning engineer,Senior,Atlanta,33.7489924,-84.3902644
+Rockstar Games,"San Diego, CA",136121,0,4.4,1,1,1,0,0,1,data scientist,Senior,San Diego,32.7174202,-117.162772
+Biogen,"Cambridge, MA",134068,0,4.0,0,0,0,0,0,1,machine learning engineer,Senior,Cambridge,52.2055314,0.1186637
+Technical Paradigm,"Mission, TX",100000,1,5.0,1,0,0,1,0,1,machine learning engineer,Senior,Mission,26.2159066,-98.3252932
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Bloomberg,"New York, NY",205000,0,4.1,1,1,0,0,0,1,data scientist,mid,New York,40.7127281,-74.0060152
+Altfest Personal Wealth Management,"New York, NY",45000,1,4.8,0,0,0,0,0,1,machine learning engineer,mid,New York,40.7127281,-74.0060152
+Eight Sleep,"New York, NY",137055,0,4.3,1,0,0,0,1,0,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Rockstar Games,"San Diego, CA",136121,0,4.4,1,1,1,0,0,1,data scientist,Senior,San Diego,32.7174202,-117.162772
+Interclypse Inc,"Annapolis Junction, MD",73813,0,4.5,1,1,1,1,1,1,data scientist,Senior,Annapolis Junction,39.11899645,-76.79634174556091
+Invonto,"Bridgewater, NJ",102406,0,4.2,1,0,1,1,1,1,machine learning engineer,mid,Bridgewater,44.3774134,-64.5193946
+Reflections Info Systems,Remote,154865,0,4.2,1,0,1,1,0,0,machine learning engineer,Senior,Remote,,
+Reddit,"New York, NY",247750,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Mars,"Chicago, IL",106785,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Vexcel,"Lehi, UT",107907,0,3.7,1,0,0,1,1,1,machine learning engineer,Senior,Lehi,40.3881114,-111.8486019
+Resideo,"Austin, TX",118581,0,3.9,1,0,1,1,0,0,machine learning engineer,Senior,Austin,30.2711286,-97.7436995
+PayPal,"San Jose, CA",124350,0,4.0,1,0,0,0,0,1,machine learning engineer,Senior,San Jose,37.3361663,-121.890591
+VERSES,Remote,115000,0,5.0,0,0,0,1,0,1,machine learning engineer,Senior,Remote,,
+Aurora Flight Sciences,"Cambridge, MA",104939,0,4.4,1,0,0,0,0,1,machine learning engineer,Senior,Cambridge,52.2055314,0.1186637
+Schrödinger,"New York, NY",135188,0,4.4,1,0,0,0,0,1,machine learning engineer,mid,New York,40.7127281,-74.0060152
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data scientist,Senior,Mountain View,37.3893889,-122.0832101
+Bloomberg,"New York, NY",205000,0,4.1,1,1,0,0,0,1,data scientist,mid,New York,40.7127281,-74.0060152
+Invonto,"Bridgewater, NJ",102406,0,4.2,1,0,1,1,1,1,machine learning engineer,mid,Bridgewater,44.3774134,-64.5193946
+Reddit,"New York, NY",247750,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Mars,"Chicago, IL",106785,0,4.3,1,1,1,1,1,1,data scientist,junior,Chicago,41.8755616,-87.6244212
+Vexcel,"Lehi, UT",107907,0,3.7,1,0,0,1,1,1,machine learning engineer,Senior,Lehi,40.3881114,-111.8486019
+PayPal,"San Jose, CA",124350,0,4.0,1,0,0,0,0,1,machine learning engineer,Senior,San Jose,37.3361663,-121.890591
+VERSES,Remote,115000,0,5.0,0,0,0,1,0,1,machine learning engineer,Senior,Remote,,
+NYC Careers,"Brooklyn, NY",107500,0,3.6,0,0,0,0,0,0,machine learning engineer,Senior,Brooklyn,40.6526006,-73.9497211
+Hewlett Packard Enterprise,"San Jose, CA",92500,0,4.2,1,0,0,1,0,1,machine learning engineer,Senior,San Jose,37.3361663,-121.890591
+Carnegie Mellon University,"Pittsburgh, PA",57527,0,4.5,1,0,0,0,1,1,machine learning engineer,junior,Pittsburgh,40.4416941,-79.9900861
+PubMatic,"Redwood City, CA",140000,0,4.3,1,0,0,0,0,1,machine learning engineer,junior,Redwood City,37.4863239,-122.232523
+Keysight Technologies,"Atlanta, GA",110823,0,4.2,1,0,0,1,0,1,machine learning engineer,Senior,Atlanta,33.7489924,-84.3902644
+Novo Nordisk,"Lexington, MA",118233,0,4.3,1,0,0,1,0,1,data scientist,Senior,Lexington,38.0464066,-84.4970393
+SIS,"Sunnyvale, CA",109312,0,3.6,0,0,0,0,0,1,machine learning engineer,Senior,Sunnyvale,37.368832,-122.036346
+GEICO,"Chevy Chase, MD",102871,0,3.2,1,1,1,1,1,1,machine learning engineer,junior,Chevy Chase,38.9813699,-77.0849245
+AstraZeneca Pharmaceuticals Inc,"Gaithersburg, MD",73338,0,4.2,0,0,0,0,0,1,machine learning engineer,mid,Gaithersburg,39.1399187,-77.1929215
+MIT Lincoln Laboratory,"Lexington, MA",117724,0,4.3,1,0,0,0,0,1,machine learning engineer,mid,Lexington,38.0464066,-84.4970393
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+Toyota Research Institute,"Los Altos, CA",180900,0,4.3,1,0,0,0,0,1,machine learning engineer,Senior,Los Altos,42.7811566,-3.620209626541331
+MIT Lincoln Laboratory,"Lexington, MA",109104,0,4.3,1,0,0,0,0,1,machine learning engineer,junior,Lexington,38.0464066,-84.4970393
+National Renewable Energy Laboratory,"Golden, CO",91950,0,3.9,1,0,0,1,0,1,machine learning engineer,Senior,Golden,39.7546349,-105.22058
+Pfizer,"Cambridge, MA",133773,0,4.1,1,0,0,1,1,1,machine learning engineer,mid,Cambridge,52.2055314,0.1186637
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+eBay Inc.,"New York, NY",126495,0,4.2,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Booz Allen Hamilton,"Alexandria, VA",126650,0,4.2,1,0,1,1,0,1,data scientist,Senior,Alexandria,44.83495335,8.745030418605868
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Seattle, WA",152000,0,3.8,0,0,0,1,0,1,machine learning engineer,Senior,Seattle,47.6038321,-122.330062
+Bose,"Framingham, MA",133142,0,3.8,1,0,0,0,0,1,machine learning engineer,junior,Framingham,42.2773177,-71.4165905
+NOKIA,"Murray Hill, NJ",99354,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Murray Hill,38.2903476,-85.5882941
+CVS Health,Connecticut,135000,0,3.1,1,0,0,1,0,1,machine learning engineer,Senior,Connecticut,41.6500201,-72.7342163
+Morgan Stanley,"New York, NY",143796,0,4.0,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Marysville, MI",67500,0,4.2,1,0,0,0,0,1,machine learning engineer,junior,Marysville,48.0517429,-122.1768209
+Technical Paradigm,Remote,100000,1,5.0,1,0,0,1,0,1,machine learning engineer,Senior,Remote,,
+YouTube,"San Bruno, CA",141704,0,4.3,0,0,0,0,0,1,machine learning engineer,Senior,San Bruno,37.6248536,-122.4145986
+Argonne National Laboratory,"Lemont, IL",54291,0,4.5,0,0,0,0,0,1,machine learning engineer,Senior,Lemont,41.6737149,-88.0016263
+Colossal Biosciences,"Dallas, TX",66609,0,4.8,1,0,0,0,0,1,machine learning engineer,Senior,Dallas,32.7762719,-96.7968559
+AstraZeneca Pharmaceuticals Inc,"Gaithersburg, MD",73338,0,4.2,0,0,0,0,0,1,machine learning engineer,mid,Gaithersburg,39.1399187,-77.1929215
+MIT Lincoln Laboratory,"Lexington, MA",117724,0,4.3,1,0,0,0,0,1,machine learning engineer,mid,Lexington,38.0464066,-84.4970393
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+Toyota Research Institute,"Los Altos, CA",180900,0,4.3,1,0,0,0,0,1,machine learning engineer,Senior,Los Altos,42.7811566,-3.620209626541331
+MIT Lincoln Laboratory,"Lexington, MA",109104,0,4.3,1,0,0,0,0,1,machine learning engineer,junior,Lexington,38.0464066,-84.4970393
+National Renewable Energy Laboratory,"Golden, CO",91950,0,3.9,1,0,0,1,0,1,machine learning engineer,Senior,Golden,39.7546349,-105.22058
+Pfizer,"Cambridge, MA",133773,0,4.1,1,0,0,1,1,1,machine learning engineer,mid,Cambridge,52.2055314,0.1186637
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+eBay Inc.,"New York, NY",126495,0,4.2,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Booz Allen Hamilton,"Alexandria, VA",126650,0,4.2,1,0,1,1,0,1,data scientist,Senior,Alexandria,44.83495335,8.745030418605868
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Seattle, WA",152000,0,3.8,0,0,0,1,0,1,machine learning engineer,Senior,Seattle,47.6038321,-122.330062
+Bose,"Framingham, MA",133142,0,3.8,1,0,0,0,0,1,machine learning engineer,junior,Framingham,42.2773177,-71.4165905
+NOKIA,"Murray Hill, NJ",99354,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Murray Hill,38.2903476,-85.5882941
+CVS Health,Connecticut,135000,0,3.1,1,0,0,1,0,1,machine learning engineer,Senior,Connecticut,41.6500201,-72.7342163
+Morgan Stanley,"New York, NY",143796,0,4.0,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Marysville, MI",67500,0,4.2,1,0,0,0,0,1,machine learning engineer,junior,Marysville,48.0517429,-122.1768209
+Technical Paradigm,Remote,100000,1,5.0,1,0,0,1,0,1,machine learning engineer,Senior,Remote,,
+YouTube,"San Bruno, CA",141704,0,4.3,0,0,0,0,0,1,machine learning engineer,Senior,San Bruno,37.6248536,-122.4145986
+Argonne National Laboratory,"Lemont, IL",54291,0,4.5,0,0,0,0,0,1,machine learning engineer,Senior,Lemont,41.6737149,-88.0016263
+Colossal Biosciences,"Dallas, TX",66609,0,4.8,1,0,0,0,0,1,machine learning engineer,Senior,Dallas,32.7762719,-96.7968559
+AstraZeneca Pharmaceuticals Inc,"Gaithersburg, MD",73338,0,4.2,0,0,0,0,0,1,machine learning engineer,mid,Gaithersburg,39.1399187,-77.1929215
+MIT Lincoln Laboratory,"Lexington, MA",117724,0,4.3,1,0,0,0,0,1,machine learning engineer,mid,Lexington,38.0464066,-84.4970393
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+Toyota Research Institute,"Los Altos, CA",180900,0,4.3,1,0,0,0,0,1,machine learning engineer,Senior,Los Altos,42.7811566,-3.620209626541331
+MIT Lincoln Laboratory,"Lexington, MA",109104,0,4.3,1,0,0,0,0,1,machine learning engineer,junior,Lexington,38.0464066,-84.4970393
+National Renewable Energy Laboratory,"Golden, CO",91950,0,3.9,1,0,0,1,0,1,machine learning engineer,Senior,Golden,39.7546349,-105.22058
+Pfizer,"Cambridge, MA",133773,0,4.1,1,0,0,1,1,1,machine learning engineer,mid,Cambridge,52.2055314,0.1186637
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+eBay Inc.,"New York, NY",126495,0,4.2,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Booz Allen Hamilton,"Alexandria, VA",126650,0,4.2,1,0,1,1,0,1,data scientist,Senior,Alexandria,44.83495335,8.745030418605868
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Seattle, WA",152000,0,3.8,0,0,0,1,0,1,machine learning engineer,Senior,Seattle,47.6038321,-122.330062
+Bose,"Framingham, MA",133142,0,3.8,1,0,0,0,0,1,machine learning engineer,junior,Framingham,42.2773177,-71.4165905
+NOKIA,"Murray Hill, NJ",99354,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Murray Hill,38.2903476,-85.5882941
+CVS Health,Connecticut,135000,0,3.1,1,0,0,1,0,1,machine learning engineer,Senior,Connecticut,41.6500201,-72.7342163
+Morgan Stanley,"New York, NY",143796,0,4.0,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Marysville, MI",67500,0,4.2,1,0,0,0,0,1,machine learning engineer,junior,Marysville,48.0517429,-122.1768209
+Technical Paradigm,Remote,100000,1,5.0,1,0,0,1,0,1,machine learning engineer,Senior,Remote,,
+YouTube,"San Bruno, CA",141704,0,4.3,0,0,0,0,0,1,machine learning engineer,Senior,San Bruno,37.6248536,-122.4145986
+Argonne National Laboratory,"Lemont, IL",54291,0,4.5,0,0,0,0,0,1,machine learning engineer,Senior,Lemont,41.6737149,-88.0016263
+Colossal Biosciences,"Dallas, TX",66609,0,4.8,1,0,0,0,0,1,machine learning engineer,Senior,Dallas,32.7762719,-96.7968559
+AstraZeneca Pharmaceuticals Inc,"Gaithersburg, MD",73338,0,4.2,0,0,0,0,0,1,machine learning engineer,mid,Gaithersburg,39.1399187,-77.1929215
+MIT Lincoln Laboratory,"Lexington, MA",117724,0,4.3,1,0,0,0,0,1,machine learning engineer,mid,Lexington,38.0464066,-84.4970393
+Locus Robotics,"Wilmington, MA",114397,0,5.0,1,0,1,1,1,1,data scientist,Senior,Wilmington,39.7459468,-75.546589
+Toyota Research Institute,"Los Altos, CA",180900,0,4.3,1,0,0,0,0,1,machine learning engineer,Senior,Los Altos,42.7811566,-3.620209626541331
+MIT Lincoln Laboratory,"Lexington, MA",109104,0,4.3,1,0,0,0,0,1,machine learning engineer,junior,Lexington,38.0464066,-84.4970393
+National Renewable Energy Laboratory,"Golden, CO",91950,0,3.9,1,0,0,1,0,1,machine learning engineer,Senior,Golden,39.7546349,-105.22058
+Pfizer,"Cambridge, MA",133773,0,4.1,1,0,0,1,1,1,machine learning engineer,mid,Cambridge,52.2055314,0.1186637
+I28 Technologies,"Wellston, OH",67500,0,4.2,0,0,0,0,0,0,data scientist,junior,Wellston,38.6728292,-90.2992808
+eBay Inc.,"New York, NY",126495,0,4.2,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+Booz Allen Hamilton,"Alexandria, VA",126650,0,4.2,1,0,1,1,0,1,data scientist,Senior,Alexandria,44.83495335,8.745030418605868
+TikTok,"Mountain View, CA",138475,0,3.6,1,0,0,0,0,1,data engineer,Senior,Mountain View,37.3893889,-122.0832101
+Amazon.com Services LLC,"Seattle, WA",152000,0,3.8,0,0,0,1,0,1,machine learning engineer,Senior,Seattle,47.6038321,-122.330062
+Bose,"Framingham, MA",133142,0,3.8,1,0,0,0,0,1,machine learning engineer,junior,Framingham,42.2773177,-71.4165905
+NOKIA,"Murray Hill, NJ",99354,0,4.2,1,0,0,0,0,1,machine learning engineer,Senior,Murray Hill,38.2903476,-85.5882941
+CVS Health,Connecticut,135000,0,3.1,1,0,0,1,0,1,machine learning engineer,Senior,Connecticut,41.6500201,-72.7342163
+Morgan Stanley,"New York, NY",143796,0,4.0,1,0,0,0,1,1,machine learning engineer,Senior,New York,40.7127281,-74.0060152
+I28 Technologies,"Marysville, MI",67500,0,4.2,1,0,0,0,0,1,machine learning engineer,junior,Marysville,48.0517429,-122.1768209
+Technical Paradigm,Remote,100000,1,5.0,1,0,0,1,0,1,machine learning engineer,Senior,Remote,,
+YouTube,"San Bruno, CA",141704,0,4.3,0,0,0,0,0,1,machine learning engineer,Senior,San Bruno,37.6248536,-122.4145986
+Argonne National Laboratory,"Lemont, IL",54291,0,4.5,0,0,0,0,0,1,machine learning engineer,Senior,Lemont,41.6737149,-88.0016263
+Colossal Biosciences,"Dallas, TX",66609,0,4.8,1,0,0,0,0,1,machine learning engineer,Senior,Dallas,32.7762719,-96.7968559

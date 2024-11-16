@@ -1,0 +1,367 @@
+:root {
+    --harp: #E8F3EB;
+    --white: #ffffff;
+    --salmon: #FE7574;
+    --blush: #e3a691;
+    --mint-cream: #F5FEF9;
+    --soft-blue: #D8EDFE;
+    --cosmos: #fcdad8;
+    --data-science : #056676;
+    --data-engineer : #107605;
+    --data-analyst: #a928b4;
+    --ml-engineer : #1b0576;
+    --
+
+
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    background-color: #E8F3EB;
+    margin: 0;
+    padding-top: 40px;
+}
+
+/* Container of the left and right sections */
+.container {
+    display: flex;
+}
+
+/* Left Section Styles */
+.profile-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 15px;
+    width: 300px;
+    height: 180px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+.top-row {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+.profile-pic {
+    width: 90px;
+    height: 90px;
+    border-radius: 15%;
+    overflow: hidden;
+    margin: 15px;
+    border: 1px solid black;
+}
+.profile-pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+    margin-left: 10px;
+}
+.name {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+}
+.links {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    margin-top: 10px;
+}
+.link-box {
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+    overflow: hidden;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+.link-box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.link-box:hover {
+    background-color: #aaa;
+}
+a {
+    text-decoration: none;
+}
+
+
+.info-container {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    width: 300px;
+    height: 600px;
+    padding: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+
+.info-item span {
+    text-align: justify;
+    display: block;
+}
+
+.info-container h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+.info-item {
+    margin-bottom: 15px;
+}
+.info-item label {
+    font-weight: bold;
+    color: #24403b;
+}
+.info-item span {
+    display: block;
+    color: #24403b;
+    margin-top: 4px;
+}
+.info-item ul {
+    list-style-type: disc;
+    padding-left: 25px;
+    margin-top: 4px;
+    color: #24403b;
+}
+
+.info-item ul li a {
+    color: #056676;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px;
+    transition: color 0.3s, border-bottom 0.3s;
+    border-bottom: 2px solid transparent;
+}
+
+.info-item ul li a:hover {
+    color: #8be8d2;
+}
+
+/* Right Section Styles */
+/* First main container: Dataset Information Layout */
+.dataset-container {
+    width: 810px; /* Adjusted width to fit the layout */
+    height: 250px;
+    background-color: #F5FEF9;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+
+
+.header {
+    background-color: #24403b;
+    padding: 10px 15px;
+    border-radius: 15px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-right: 555px;
+}
+
+/* Content styling for Dataset Information */
+.dataset-content {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.left-box, .right-box {
+    border-radius: 15px;
+    flex: 1;
+    padding: 10px 15px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+.left-box {
+    background-color: #D8EDFE;
+}
+
+.right-box {
+    background-color: #8be8d2;
+}
+
+p {
+    text-align: justify;
+    margin: 0;
+}
+
+/* Second main container: Map and Graphs Layout */
+.map-graph-container {
+    width: 810px;
+    background-color: #F5FEF9;
+    border-radius: 15px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px 20px;
+}
+
+.map-container {
+    display: flex;
+    width: 820px;
+    height: 302px;
+    background-color: #F5FEF9;
+
+    margin: 0px;
+    margin-bottom: 0px;
+}
+
+.graphs-container {
+    display: flex;
+    width: 820px;
+    height: 250px;
+    background-color: #F5FEF9;
+
+}
+
+
+
+/* Individual sections for map and graphs */
+.mapbox {
+    width: 600px;
+    height: 290px;
+    background-color: #a3d2ca;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    color: #333;
+    margin-right: 10px;
+}
+.mapbox-controller {
+    width: 200px;
+    height: 290px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: stretch;
+    background-color: #D8EDFE;
+    border-radius: 10px;
+    color: #333;
+    padding: 15px;
+    box-sizing: border-box;
+}
+/*---------------------------------------------------------------------------------*/
+.filter-row {
+
+    margin: 10;
+    background-color: #D8EDFE;
+    border-radius: 3px;
+    padding: 10px 5x;
+    transition: background-color 0.3s;
+
+}
+
+.fixed-dropdown {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 10px;
+
+    color: #056676;
+}
+
+/* Container for each filter row */
+.filter-row {
+    width: 100%;
+    max-width: 155px;
+    padding: 5px 5px;
+
+}
+
+
+.filter-row:hover {
+    background-color: #8be8d2; /* Change background on hover */
+    border-radius: 10px;
+}
+
+.filter-row label {
+    font-weight: bold;
+    color: #24403b;
+}
+
+.filter-row .dcc-dropdown,
+.filter-row .dcc-rangeslider,
+.filter-row .dcc-checklist {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    position: relative;
+    z-index: 10;
+}
+
+.dcc-dropdown,
+{
+    background-color: #24403b;
+    color: #24403b;
+}
+
+.skill-filter-dropdown {
+    position: absolute;
+    z-index: 100;
+    overflow-y: hidden;
+    max-height: 3;
+
+}
+.dcc-range-slider {
+    color: #88c9b6; /* Change color of range slider */
+
+#salary-range-label {
+    text-align: center;
+    width: 100%;
+    display: block;
+    font-weight: bold;
+}
+#rating-range-label {
+    text-align: center;
+    width: 100%;
+    display: block;
+    font-weight: bold;
+}
+/*---------------------------------------------------------------------------------*/
+}
+
+.graph1, .graph2 {
+    width: 400px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.graph1 {
+    background-color: #5eaaa8;
+    margin-right: 10px; /* Add margin to the right */
+}
+
+.graph2 {
+    background-color: #056676;
+    margin: 0; /* No margins */
+}
