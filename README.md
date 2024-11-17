@@ -17,16 +17,16 @@ This portfolio contains all of the projects that I have done academically during
 # Projects
 
 ### [Regression Analysis on Laptops Using Linear Modelling](https://github.com/wendellabino07/linearModellingLaptops)
-![Linmod Image](Pictures/Linmod Picture.png)
+![Linmod Image](Pictures/Linmod%20Picture.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### [What is Tesselation in Computer Graphics?](https://www.youtube.com/watch?v=5N_bCNgg0Kc)
-![Tesselation Image](Pictures/Tesselation Picture.png)
+![Tesselation Image](Pictures/Tesselation%20Picture.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### [Banach-Mazur Game](https://github.com/wendellabino07/portfolio/blob/main/Papers/CSALGCM_N01_AbinoYap.pdf)
-![Banach Picture](Pictures/Banach Mazur Picture.png)
+![Banach Image](Pictures/Banach%20Mazur%20Picture.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
