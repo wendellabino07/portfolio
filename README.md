@@ -72,3 +72,19 @@ at De La Salle University.
 </div>
 
 ---
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="Pictures/PersonalDashboard.jpg" alt="personal Dashboard Image" width="500">
+    <div>
+        <h3><a href="https://github.com/wendellabino07/personalDashboard">Personal Dashboard</a></h3>
+        <p>
+            This personal dashboard of mine summarizes what I want to happen in the future. I am interested in going overseas to explore more 
+            opportunities about data related jobs. I have seen and briefly read about those jobs, and I want to explore them. In this personal 
+            dashboard, it includes my profile, almost everything about my college credentials, and a brief introduction explain why I chose 
+            the dataset of data related jobs. Apart from that, there is a map graph there connected with the two other subgraphs below that
+            could give insights about what job openings there should I pursue. To see the dashboard itself, check out the respository by clicking
+            the title of this section.
+        </p>
+    </div>
+</div>
+---
