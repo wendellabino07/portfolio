@@ -39,10 +39,15 @@ This portfolio contains all of the projects that I have done academically during
     <div>
         <h3><a href="https://www.youtube.com/watch?v=5N_bCNgg0Kc">What is Tesselation in Computer Graphics?</a></h3>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            The final project in Mathematics in the Modern World course (GEMATMW), we were required to create a video about Mathematics 
+            applications in the present world. My video is about tesselation, but an application to computer graphics. Tesselation in
+            computer graphics is a fundamental process involving breaking down complex surfaces or models into smaller bits of geometric
+            shapes, polygons or triangles. With the help of this technique, it enhances the efficiency and "realisticness" of the figures
+            in video games or CGI movies. The smaller shapes allow graphics to have finer detail and smoother curves, especially in 3D
+            modelling. With the utilization of tesellation, modern graphics can replicate lifelike textrues, grass, any terrains, detailed
+            objects, anything that represents real world objects are enhanced significantly, improving visual quality and immersion in
+            virtual reality, simulations, movies, and games. For more details, check out the video I made by clicking on the title of this
+            section.
         </p>
     </div>
 </div>
