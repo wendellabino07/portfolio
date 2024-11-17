@@ -18,6 +18,7 @@ This portfolio contains all of the projects that I have done academically during
 
 Here below lies some of the projects that I consider that have contributed and built my skills. All of these are projects that were requirements of some courses
 at De La Salle University.
+
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
