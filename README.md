@@ -15,7 +15,6 @@ This portfolio contains all of the projects that I have done academically during
 - Council of Students Organizations: Associate Vice Chairperson in Finance
 
 # Projects
-# Projects
 
 ---
 
@@ -24,10 +23,11 @@ This portfolio contains all of the projects that I have done academically during
     <div>
         <h3><a href="https://github.com/wendellabino07/linearModellingLaptops">Regression Analysis on Laptops Using Linear Modelling</a></h3>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            With Mr. Remus Guderian Yap, we were tasked to do a regression analysis on whatever dataset that we can think of. Eventually,
+            we landed on laptop prices datasets. Through the use of linear modelling and other concepts taught in class, we analyzed which
+            properties of a laptop affect the price. Through carefully setting up the predictors and the price (what is being predicted),
+            we were able to get insights on what properties of the laptop that we should look out for. For full details, check out
+            the project's video presentation through this link: https://www.youtube.com/watch?v=yhJ7f54lfb4.
         </p>
     </div>
 </div>
