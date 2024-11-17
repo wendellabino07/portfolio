@@ -15,5 +15,7 @@ This portfolio contains all of the projects that I have done academically during
 - Council of Students Organizations: Associate Vice Chairperson in Finance
 
 # Projects
-  
+
+### [Project Title](#)
+
 
