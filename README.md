@@ -20,7 +20,7 @@ This portfolio contains all of the projects that I have done academically during
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="Pictures/Linmod%20Picture.png" alt="Linmod Image" width="200">
+    <img src="Pictures/Linmod%20Picture.png" alt="Linmod Image" width="400">
     <div>
         <h3><a href="https://github.com/wendellabino07/linearModellingLaptops">Regression Analysis on Laptops Using Linear Modelling</a></h3>
         <p>
@@ -35,7 +35,7 @@ This portfolio contains all of the projects that I have done academically during
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="Pictures/Tesselation%20Picture.png" alt="Tesselation Image" width="200">
+    <img src="Pictures/Tesselation%20Picture.png" alt="Tesselation Image" width="400">
     <div>
         <h3><a href="https://www.youtube.com/watch?v=5N_bCNgg0Kc">What is Tesselation in Computer Graphics?</a></h3>
         <p>
@@ -50,7 +50,7 @@ This portfolio contains all of the projects that I have done academically during
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="Pictures/Banach%20Mazur%20Picture.png" alt="Banach Image" width="200">
+    <img src="Pictures/Banach%20Mazur%20Picture.png" alt="Banach Image" width="400">
     <div>
         <h3><a href="https://github.com/wendellabino07/portfolio/blob/main/Papers/CSALGCM_N01_AbinoYap.pdf">Banach-Mazur Game</a></h3>
         <p>
