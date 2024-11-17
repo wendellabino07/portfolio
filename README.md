@@ -15,18 +15,51 @@ This portfolio contains all of the projects that I have done academically during
 - Council of Students Organizations: Associate Vice Chairperson in Finance
 
 # Projects
+# Projects
 
-### [Regression Analysis on Laptops Using Linear Modelling](https://github.com/wendellabino07/linearModellingLaptops)
-![Linmod Image](Pictures/Linmod%20Picture.png)
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="Pictures/Linmod%20Picture.png" alt="Linmod Image" width="200">
+    <div>
+        <h3><a href="https://github.com/wendellabino07/linearModellingLaptops">Regression Analysis on Laptops Using Linear Modelling</a></h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+</div>
 
-### [What is Tesselation in Computer Graphics?](https://www.youtube.com/watch?v=5N_bCNgg0Kc)
-![Tesselation Image](Pictures/Tesselation%20Picture.png)
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="Pictures/Tesselation%20Picture.png" alt="Tesselation Image" width="200">
+    <div>
+        <h3><a href="https://www.youtube.com/watch?v=5N_bCNgg0Kc">What is Tesselation in Computer Graphics?</a></h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+</div>
 
-### [Banach-Mazur Game](https://github.com/wendellabino07/portfolio/blob/main/Papers/CSALGCM_N01_AbinoYap.pdf)
-![Banach Image](Pictures/Banach%20Mazur%20Picture.png)
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="Pictures/Banach%20Mazur%20Picture.png" alt="Banach Image" width="200">
+    <div>
+        <h3><a href="https://github.com/wendellabino07/portfolio/blob/main/Papers/CSALGCM_N01_AbinoYap.pdf">Banach-Mazur Game</a></h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
+            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+    </div>
+</div>
+
+---
