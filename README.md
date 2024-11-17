@@ -88,3 +88,20 @@ at De La Salle University.
     </div>
 </div>
 
+---
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="Pictures/Sokoban.jpg" alt="Sokoban" width="450">
+    <div>
+        <h3><a href="https://github.com/wendellabino07/CSINTSY_MC01.git">Sokobot Puzzle Solver</a></h3>
+        <p>
+            With my groupmates/friends, Mr. Markus Reynoso, Mr. Remus Guderian Yap, Mr. Antonio Luis Guidote, and Mr. Daniel Detablan, we have worked
+            together as tasked in our Artificial Intelligence class to create a bot to solve Sokoban Puzzles. With Mr. Reynoso's codes of the structure
+            and backbone of this project, he tasked us to complete the codes that forces the bot to move in a certain way at specific instances. It would be
+            clearer if you try to play Sokoban first here: https://www.mathsisfun.com/games/sokoban.html, then check out our project by clicking the title 
+            of this section.
+        </p>
+    </div>
+</div>
+
+
