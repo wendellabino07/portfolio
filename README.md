@@ -59,10 +59,11 @@ This portfolio contains all of the projects that I have done academically during
     <div>
         <h3><a href="https://github.com/wendellabino07/portfolio/blob/main/Papers/CSALGCM_N01_AbinoYap.pdf">Banach-Mazur Game</a></h3>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure 
-            dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            The Banach-Mazur game is a complex mathematical game used in topology that explores properties of spaces, like Baire category or
+            completeness. I was a small contributor of this paper, this is mainly done by Mr. Remus Guderian Yap when we were tasked to analyze
+            and create a paper about algorithms. It starts with two players, Player A and Player B who take turns choosing nested subsets of a 
+            topological space. Player A starts with a set, and Player B responds with picking a subset of Player A's choice where Player B's choice 
+            of a subset must be completely contained in Player A's set, and so on. To check out the paper, click the title of this section.
         </p>
     </div>
 </div>
