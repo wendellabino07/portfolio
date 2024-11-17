@@ -24,7 +24,7 @@ at De La Salle University.
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/Linmod%20Picture.png" alt="Linmod Image" width="450">
     <div>
-        <h3><a href="https://github.com/wendellabino07/linearModellingLaptops">Regression Analysis on Laptops Using Linear Modelling</a></h3>
+        <h3><a href="https://github.com/wendellabino07/linearModellingLaptops.git">Regression Analysis on Laptops Using Linear Modelling</a></h3>
         <p>
             With Mr. Remus Guderian Yap, we were tasked to do a regression analysis on whatever dataset that we can think of. Eventually,
             we landed on laptop prices datasets. Through the use of linear modelling and other concepts taught in class, we analyzed which
@@ -60,7 +60,7 @@ at De La Salle University.
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/Banach%20Mazur%20Picture.png" alt="Banach Image" width="450">
     <div>
-        <h3><a href="https://github.com/wendellabino07/portfolio/blob/main/Papers/CSALGCM_N01_AbinoYap.pdf">Banach-Mazur Game</a></h3>
+        <h3><a href="https://github.com/wendellabino07/portfolio/blob/36fe41ac805fa801eab8feb696957a3069889b6a/Papers/CSALGCM_N01_AbinoYap.pdf">Banach-Mazur Game</a></h3>
         <p>
             The Banach-Mazur game is a complex mathematical game used in topology that explores properties of spaces, like Baire category or
             completeness. I was a small contributor of this paper, this is mainly done by Mr. Remus Guderian Yap when we were tasked to analyze
@@ -76,7 +76,7 @@ at De La Salle University.
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/PersonalDashboard.png" alt="personal Dashboard Image" width="450">
     <div>
-        <h3><a href="https://github.com/wendellabino07/personalDashboard">Personal Dashboard</a></h3>
+        <h3><a href="https://github.com/wendellabino07/personalDashboard.git">Personal Dashboard</a></h3>
         <p>
             This personal dashboard of mine summarizes what I want to happen in the future. I am interested in going overseas to explore more 
             opportunities about data related jobs. I have seen and briefly read about those jobs, and I want to explore them. In this personal 
