@@ -46,6 +46,7 @@ at De La Salle University.
     </div>
 </div>
 
+---
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/PersonalDashboard.png" alt="personal Dashboard Image" width="450">
     <div>
