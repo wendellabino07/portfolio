@@ -41,7 +41,7 @@ at De La Salle University.
     <div>
         <h3><a href="https://drive.google.com/file/d/1Pqd-zGadvEXCwlCHgrN_qEsp0iW8s-a9/view?usp=sharing">Data Preparation</a></h3>
         <p>
-            In this final project in the course DATAPRE with my groupmates, we focused on preparing data for analysis starting with web scraping to collect raw data from some car resale websites in the Philippines. We then performed data cleaning, transformed the data and merged it with an existing data that we looked out for to provide more comprehensive insights. Then, we converted categorical variables into numerical representations using one-hot encoding, frequency encoding, and etc. to ensure that the data was ready to be used for machine learning models or statistical analysis.
+            In this final project in the course DATAPRE with my groupmates, we focused on preparing data for analysis starting with web scraping to collect raw data from some car resale websites in the Philippines. We then performed data cleaning, transformed the data and merged it with an existing data that we looked out for to provide more comprehensive insights. Then, we converted categorical variables into numerical representations using one-hot encoding, frequency encoding, and etc. to ensure that the data was ready to be used for machine learning models or statistical analysis. Check out the final dataset in the files here.
         </p>
     </div>
 </div>
