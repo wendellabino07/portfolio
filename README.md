@@ -63,6 +63,22 @@ at De La Salle University.
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="Pictures/PersonalDashboard.png" alt="asd" width="450">
+    <div>
+        <h3><a href="https://github.com/markusreynoso/datanvi_final_proj.git">An Integrated View of House Pricing, and Seismic Events</a></h3>
+        <p>
+            This is a data visualization app that uses a dataset we retrieved from Kaggle, in which we cleaned and transformed it accordingly. 
+            The purpose of the project is, there are always people looking to buy a house in the Philippines. It is a very important financial 
+            decision, and of course, you want the area to be safe. The visualization app shows the exact locations and prices of the houses available, 
+            and the summarized graphs pertaining to earthquake. With this, people can draw meaningful insights considering price, location, and earthquake.
+        </p>
+    </div>
+</div>
+
+
+
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/Sokoban.jpg" alt="Sokoban" width="450">
     <div>
         <h3><a href="https://github.com/wendellabino07/CSINTSY_MC01.git">Sokobot Puzzle Solver</a></h3>
