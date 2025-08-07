@@ -63,7 +63,7 @@ at De La Salle University.
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="Pictures/PersonalDashboard.png" alt="asd" width="450">
+    <img src="Pictures/FinalProjectNVI.png" alt="asd" width="450">
     <div>
         <h3><a href="https://github.com/markusreynoso/datanvi_final_proj.git">An Integrated View of House Pricing, and Seismic Events</a></h3>
         <p>
