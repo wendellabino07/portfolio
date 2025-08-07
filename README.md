@@ -5,7 +5,7 @@ This portfolio contains all of the projects that I have done academically during
 - DLSU email: renz_abino@dlsu.edu.ph
 - Main email: renzwendellabino@gmail.com
 - LinkedIn: https://www.linkedin.com/in/renz-wendell-abi%C3%B1o-4327322b9/
-- Resume: https://drive.google.com/file/d/1jerUwSinuWgXNbuoPmTDQV37L0stro0J/view?usp=sharing
+- Resume: https://drive.google.com/file/d/1dfYKB3zdNFuWAyR4ZkwFtq3mB18_3qv3/view?usp=sharing
 
 # Organizations explored at De La Salle University
 - Mathematics Circle
