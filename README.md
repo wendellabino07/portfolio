@@ -26,7 +26,7 @@ at De La Salle University.
     <div>
         <h3><a href="https://github.com/wendellabino07/linearModellingLaptops.git">Regression Analysis on Laptops Using Linear Modelling</a></h3>
         <p>
-            With Mr. Remus Guderian Yap, we were tasked to do a regression analysis on whatever dataset that we can think of. Eventually,
+            We were tasked to do a regression analysis on whatever dataset that we can think of. Eventually,
             we landed on laptop prices datasets. Through the use of linear modelling and other concepts taught in class, we analyzed which
             properties of a laptop affect the price. Through carefully setting up the predictors and the price (what is being predicted),
             we were able to get insights on what properties of the laptop that we should look out for. For full details, check out
@@ -52,12 +52,10 @@ at De La Salle University.
     <div>
         <h3><a href="https://github.com/wendellabino07/personalDashboard.git">Personal Dashboard</a></h3>
         <p>
-            This personal dashboard of mine summarizes what I want to happen in the future. I am interested in going overseas to explore more 
-            opportunities about data related jobs. I have seen and briefly read about those jobs, and I want to explore them. In this personal 
-            dashboard, it includes my profile, almost everything about my college credentials, and a brief introduction explain why I chose 
-            the dataset of data related jobs. Apart from that, there is a map graph there connected with the two other subgraphs below that
-            could give insights about what job openings there should I pursue. To see the dashboard itself, check out the respository by clicking
-            the title of this section.
+            This dashboard is a little project that I have done as exercise. In this dashboard, it includes my profile, almost everything about my 
+            college credentials, and a brief introduction explain why I chose the dataset of data related jobs. Apart from that, there is a map 
+            graph there connected with the two other subgraphs below that could give insights about what job openings there should I pursue. 
+            To see the dashboard itself, check out the respository by clicking the title of this section.
         </p>
     </div>
 </div>
@@ -69,8 +67,7 @@ at De La Salle University.
     <div>
         <h3><a href="https://github.com/wendellabino07/CSINTSY_MC01.git">Sokobot Puzzle Solver</a></h3>
         <p>
-            With my groupmates/friends, Mr. Markus Reynoso, Mr. Remus Guderian Yap, Mr. Antonio Luis Guidote, and Mr. Daniel Detablan, we have worked
-            together as tasked in our Artificial Intelligence class to create a bot to solve Sokoban Puzzles. With Mr. Reynoso's codes of the structure
+            With my groupmates/friends, we have worked together as tasked in our Artificial Intelligence class to create a bot to solve Sokoban Puzzles. With one of our groupmates' codes of the structure
             and backbone of this project, he tasked us to complete the codes that forces the bot to move in a certain way at specific instances. It would be
             clearer if you try to play Sokoban first here: https://www.mathsisfun.com/games/sokoban.html, then check out our project by clicking the title 
             of this section.
