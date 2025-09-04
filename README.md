@@ -30,7 +30,6 @@ at De La Salle University.
     </div>
 </div>
 
----
 
 ---
 
