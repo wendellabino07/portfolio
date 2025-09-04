@@ -16,7 +16,7 @@ This portfolio contains projects that I have done academically during my stay in
 
 # Projects
 
-Here below lies some of the projects that I consider that have contributed and built my skills. All of these are projects that were requirements of some courses
+- Here below lies some of the projects that I consider that have contributed and built my skills. All of these are projects that were requirements of some courses
 at De La Salle University.
 ---
 
@@ -25,7 +25,7 @@ at De La Salle University.
     <div>
         <h3><a>Sales Dashboard</a></h3>
         <p>
-            After finishing my last term in DLSU and while waiting for my graduation, I figured I learn Power BI. This project showcases querying, data preparation and transformation, and data visualization using SQL, Power Query, and Power BI, respectively. To view the dashboard, locate and download **Sales Dashboard.pbix** in one of the uploaded files in this portfolio.
+            After finishing my last term in DLSU and while waiting for my graduation, I figured I learn Power BI. This project showcases querying, data preparation and transformation, and data visualization using SQL, Power Query, and Power BI, respectively. To view the dashboard, locate and download <b><i>Sales Dashboard.pbix<\i><\b> in one of the uploaded files in this portfolio.
         </p>
     </div>
 </div>
