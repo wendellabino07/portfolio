@@ -25,7 +25,7 @@ at De La Salle University.
     <div>
         <h3><a>Sales Dashboard</a></h3>
         <p>
-            After finishing my last term in DLSU and while waiting for my graduation, I figured I learn Power BI. This project showcases querying, data preparation and transformation, and data visualization using SQL, Power Query, and Power BI, respectively. To view the dashboard, locate and download <b><i>Sales Dashboard.pbix<\i><\b> in one of the uploaded files in this portfolio.
+            After finishing my last term in DLSU and while waiting for my graduation, I figured I learn Power BI. This project showcases querying, data preparation and transformation, and data visualization using SQL, Power Query, and Power BI, respectively. To view the dashboard, locate and download <b><i>Sales Dashboard.pbix</i></b> in one of the uploaded files in this portfolio.
         </p>
     </div>
 </div>
