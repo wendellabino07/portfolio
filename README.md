@@ -19,7 +19,7 @@ This portfolio contains projects that I have done academically during my stay in
 Here below lies some of the projects that I consider that have contributed and built my skills. All of these are projects that were requirements of some courses
 at De La Salle University.
 
-
+-
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/power BI.png" alt="powerBI" width="450">
     <div>
@@ -31,7 +31,7 @@ at De La Salle University.
 </div>
 
 
----
+-
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/Linmod%20Picture.png" alt="Linmod Image" width="450">
@@ -47,7 +47,7 @@ at De La Salle University.
     </div>
 </div>
 
----
+-
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/dataprefinalproj.png" alt="datapre final proj" width="450">
     <div>
@@ -58,7 +58,7 @@ at De La Salle University.
     </div>
 </div>
 
----
+-
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/PersonalDashboard.png" alt="personal Dashboard Image" width="450">
     <div>
@@ -72,7 +72,7 @@ at De La Salle University.
     </div>
 </div>
 
----
+-
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/FinalProjectNVI.png" alt="asd" width="450">
