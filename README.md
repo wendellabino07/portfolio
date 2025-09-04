@@ -1,6 +1,6 @@
 # Portfolio 
 
-This portfolio contains all of the projects that I have done academically during my stay in De La Salle University. In this portfolio, this summarizes my skills mostly in computer related courses.
+This portfolio contains projects that I have done academically during my stay in De La Salle University, and some in my own time. In this portfolio, this summarizes my skills mostly in computer related courses.
 
 - DLSU email: renz_abino@dlsu.edu.ph
 - Main email: renzwendellabino@gmail.com
@@ -18,6 +18,19 @@ This portfolio contains all of the projects that I have done academically during
 
 Here below lies some of the projects that I consider that have contributed and built my skills. All of these are projects that were requirements of some courses
 at De La Salle University.
+---
+
+<div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="" alt="powerBI" width="450">
+    <div>
+        <h3><a href="https://github.com/wendellabino07/linearModellingLaptops.git">Sales Dashboard</a></h3>
+        <p>
+            After finishing my last term in DLSU and while waiting for my graduation, I figured I learn Power BI. This project showcases querying, data preparation and transformation, and data visualization using SQL, Power Query, and Power BI, respectively. 
+        </p>
+    </div>
+</div>
+
+---
 
 ---
 
