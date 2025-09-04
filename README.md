@@ -16,9 +16,9 @@ This portfolio contains projects that I have done academically during my stay in
 
 # Projects
 
-- Here below lies some of the projects that I consider that have contributed and built my skills. All of these are projects that were requirements of some courses
+Here below lies some of the projects that I consider that have contributed and built my skills. All of these are projects that were requirements of some courses
 at De La Salle University.
----
+
 
 <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="Pictures/power BI.png" alt="powerBI" width="450">
